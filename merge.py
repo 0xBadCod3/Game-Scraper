@@ -114,12 +114,12 @@ def main():
     print("="*60)
     
     print("\n[1/3] Running scraper3 (GamerPower Web)...")
-    scraper3_games, scraper3_platforms = scrape_gamerpower(num_pages=2, max_workers=3)
+    scraper3_games, scraper3_platforms = scrape_gamerpower(num_pages=100, max_workers=3)
     if scraper3_games is None:
         scraper3_games = []
     
     print("\n[2/3] Running scraper1 (Telegram)...")
-    scraper1_games = scrape_with_pagination("https://t.me/s/freegames", num_pages=10)
+    scraper1_games = scrape_with_pagination("https://t.me/s/freegames", num_pages=100)
     
     print("\n[3/3] Running scraper2 (GamerPower API)...")
     scraper2_games = fetch_gamerpower_games()
