@@ -1,0 +1,66 @@
+name: Daily Telegram Games Scraper
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC (adjust as needed)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write # Required to push changes
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for proper git operations
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          pip install curl-cffi beautifulsoup4
+      
+      - name: Run scraper
+        run: |
+          python scraper.py
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [[ -n $(git status --porcelain games.json) ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add games.json
+          git commit -m "Update games.json - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: No changes detected
+        if: steps.check_changes.outputs.changes == 'false'
+        run: |
+          echo "No new games found. Skipping commit."
+      
+      - name: Upload artifact (backup)
+        uses: actions/upload-artifact@v4
+        with:
+          name: games-json-${{ github.run_number }}
+          path: games.json
+          retention-days: 30
