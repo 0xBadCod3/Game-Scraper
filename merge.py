@@ -114,7 +114,7 @@ def main():
     print("="*60)
     
     print("\n[1/3] Running scraper3 (GamerPower Web)...")
-    scraper3_games, scraper3_platforms = scrape_gamerpower(num_pages=15, max_workers=3)
+    scraper3_games, scraper3_platforms = scrape_gamerpower(num_pages=5, max_workers=3)
     if scraper3_games is None:
         scraper3_games = []
     
