@@ -76,7 +76,7 @@ def extract_games(soup):
     
     return games
 
-def load_existing_games(filename='games.json'):
+def load_existing_games(filename='games.tg.json'):
     """Load existing games from JSON file"""
     if not os.path.exists(filename):
         return []
@@ -136,7 +136,7 @@ def merge_and_sort_games(new_games, existing_games):
     
     return unique_games
 
-def save_to_json(games, filename='games.json'):
+def save_to_json(games, filename='games.tg.json'):
     """Save games to JSON file"""
     data = {
         'last_updated': datetime.now().isoformat(),
@@ -150,14 +150,14 @@ def save_to_json(games, filename='games.json'):
     print(f"\nSaved {len(games)} total games to {filename}")
 
 def main():
-    filename = 'games.json'
+    filename = 'games.tg.json'
     
     print("Loading existing games...")
     existing_games = load_existing_games(filename)
     print(f"Found {len(existing_games)} existing games")
     
     print("\nStarting scrape...")
-    new_games = scrape_with_pagination("https://t.me/s/freegames", num_pages=100, existing_games=existing_games)
+    new_games = scrape_with_pagination("https://t.me/s/freegames", num_pages=5, existing_games=existing_games)
     
     if new_games:
         print(f"\nFound {len(new_games)} new games")

@@ -2,12 +2,11 @@ name: Games Scraper
 
 on:
   schedule:
-    # Run daily at 00:00 UTC (adjust as needed)
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 permissions:
-  contents: write # Required to push changes
+  contents: write
 
 jobs:
   scrape:
@@ -17,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history for proper git operations
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,11 +26,11 @@ jobs:
       
       - name: Install dependencies
         run: |
-          pip install curl-cffi beautifulsoup4
+          pip install -r requirements.txt
       
-      - name: Run scraper
+      - name: Run merger
         run: |
-          python scraper.py
+          python merge.py
       
       - name: Check for changes
         id: check_changes
@@ -48,7 +47,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add games.json
-          git commit -m "Update games.json - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "Update games.json"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -58,9 +57,9 @@ jobs:
         run: |
           echo "No new games found. Skipping commit."
       
-      - name: Upload artifact (backup)
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: games-json-${{ github.run_number }}
+          name: games-${{ github.run_number }}
           path: games.json
           retention-days: 30
