@@ -1,0 +1,2015 @@
+{
+  "last_updated": "2025-11-09T09:17:17.703199",
+  "total_games": 287,
+  "games": [
+    {
+      "name": "Five Nights at Freddy's: Into the Pit",
+      "description": "A new chapter in the popular survival horror series, Five Nights at Freddy’s universe",
+      "price": "CA$22.99 → Free",
+      "post_date": "2025-10-30T16:10:37+00:00",
+      "link": "https://store.epicgames.com/en-US/p/five-nights-at-freddys-into-the-pit-99c563"
+    },
+    {
+      "name": "Fear the Spotlight",
+      "description": "A school atmospheric third-person horror adventure with a disturbing mystery to unravel",
+      "price": "CA$22.99 → Free",
+      "post_date": "2025-10-23T16:10:19+00:00",
+      "link": "https://store.epicgames.com/en-US/p/fear-the-spotlight-97656f"
+    },
+    {
+      "name": "Amnesia: The Bunker",
+      "description": "Amnesia: The Bunker Is A First-person Horror Game From The Makers Of SOMA And Amnesia",
+      "price": "CA$28.99 → Free",
+      "post_date": "2025-10-16T16:10:36+00:00",
+      "link": "https://store.epicgames.com/en-US/p/amnesia-the-bunker-9d5799"
+    },
+    {
+      "name": "Gravity Circuit",
+      "description": "2D platformer in the spirit of console classics like Megaman",
+      "price": "CA$21.99 → Free",
+      "post_date": "2025-10-09T16:10:33+00:00",
+      "link": "https://store.epicgames.com/en-US/p/gravity-circuit-489baa"
+    },
+    {
+      "name": "HealUp",
+      "description": "AI energy productivity app that helps align your work around energy highs and lows so you achieve more without burning out.",
+      "price": "$12.00 → Free",
+      "post_date": "2025-10-08T00:10:33+00:00",
+      "link": "https://www.healup.me/"
+    },
+    {
+      "name": "Lumixo",
+      "description": "Brainstorming / Productivity",
+      "price": "$19.99 -> Free",
+      "post_date": "2025-10-07T07:10:29+00:00",
+      "link": "https://lumixo.ai/"
+    },
+    {
+      "name": "Nightingale",
+      "description": "First-person, PVE, open-world survival crafting game played solo or cooperatively with friends",
+      "price": "CA$38.99 → Free",
+      "post_date": "2025-10-02T15:10:31+00:00",
+      "link": "https://store.epicgames.com/en-US/p/nightingale"
+    },
+    {
+      "name": "Jorel’s Brother and The Most Important Game of the Galaxy",
+      "description": "Point-and-click adventure about an eight-year-old boy who lives with his eccentric family in the shadow of his handsome and popular brother",
+      "price": "CA$16.99 → Free",
+      "post_date": "2025-09-25T16:10:39+00:00",
+      "link": "https://store.epicgames.com/en-US/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f"
+    },
+    {
+      "name": "Project Winter",
+      "description": "Betray your friends in this 8-person multiplayer game focused on social deception and survival",
+      "price": "CA$11.99 → Free",
+      "post_date": "2025-09-18T16:10:30+00:00",
+      "link": "https://store.epicgames.com/en-US/p/project-winter-3b9e84"
+    },
+    {
+      "name": "Ghostrunner 2",
+      "description": "Hardcore FPP Slasher in a Post-Apocalyptic Future",
+      "price": "CA$53.99 → Free",
+      "post_date": "2025-09-11T16:10:56+00:00",
+      "link": "https://store.epicgames.com/en-US/p/ghostrunner-2"
+    },
+    {
+      "name": "WEB",
+      "description": "Best price/value expense tracker, sub per 6 months cheap",
+      "price": null,
+      "post_date": "2025-09-08T20:10:35+00:00",
+      "link": "https://profytracker.com/"
+    },
+    {
+      "name": "Make Way",
+      "description": "A Racing Party Game With Crazy Track Builder Options",
+      "price": "CA$19.99 → Free",
+      "post_date": "2025-08-28T15:10:40+00:00",
+      "link": "https://store.epicgames.com/en-US/p/make-way-bddf5f"
+    },
+    {
+      "name": "Kamaeru",
+      "description": "Cozy frog collecting game, where you take pictures of frogs, play mini-games and decorate your habitat",
+      "price": "CA$22.99 → Free",
+      "post_date": "2025-08-21T16:10:27+00:00",
+      "link": "https://store.epicgames.com/en-US/p/kamaeru-0c301e"
+    },
+    {
+      "name": "Keylocker | Turn Based Cyberpunk Action",
+      "description": "Cyberpunk turn-based rhythm JRPG",
+      "price": "CA$22.99 → Free",
+      "post_date": "2025-07-31T15:10:39+00:00",
+      "link": "https://store.epicgames.com/en-US/p/keylocker-622bcc"
+    },
+    {
+      "name": "Sid Meier’s Civilization VI: Platinum Edition",
+      "description": "Interact with your world, expand your empire across the map, advance your culture, and compete against history’s greatest leaders",
+      "price": "CA$79.99 → Free",
+      "post_date": "2025-07-17T15:10:41+00:00",
+      "link": "https://store.epicgames.com/en-US/p/sid-meiers-civilization-vi--platinum-edition"
+    },
+    {
+      "name": "Battlestar Galactica Deadlock",
+      "description": "3D turn-based space strategy game in which you take command of a colonial space fleet from the 2004 remake of sci-fi series Battlestar Galactica",
+      "price": null,
+      "post_date": "2025-07-10T19:10:41+00:00",
+      "link": "https://store.steampowered.com/app/544610/Battlestar_Galactica_Deadlock/"
+    },
+    {
+      "name": "Field of Glory II: Medieval",
+      "description": "Turn-based tactical game set in the High Middle Ages from 1040 AD to 1270 AD. Lead your chosen army and its named generals to victory in set-piece historical battles or \"what-if\" custom battle situations against an AI or human opponent.",
+      "price": null,
+      "post_date": "2025-07-10T19:10:40+00:00",
+      "link": "https://store.steampowered.com/app/1368870/Field_of_Glory_II_Medieval/"
+    },
+    {
+      "name": "Fantasy General II",
+      "description": "Lead powerful heroes and mighty armies into battle across the world of Aer, a place of great beauty and even greater danger. Guide your forces through a gripping story campaign and decide the fate of a world on the brink of destruction.",
+      "price": null,
+      "post_date": "2025-07-10T19:10:39+00:00",
+      "link": "https://store.steampowered.com/app/1025440/Fantasy_General_II/"
+    },
+    {
+      "name": "Sky Racket",
+      "description": "A game that mixes two classic genres from the arcade era, Shoot’em up and Block Breaker",
+      "price": "CA$16.99 → Free",
+      "post_date": "2025-07-10T16:10:26+00:00",
+      "link": "https://store.epicgames.com/en-US/p/sky-racket-4cf23a"
+    },
+    {
+      "name": "Sable",
+      "description": "Travel Across Deserts and Explore Ancient Wonders And Spaceships",
+      "price": "CA$27.99 → Free",
+      "post_date": "2025-06-26T15:10:14+00:00",
+      "link": "https://store.epicgames.com/en-US/p/sable"
+    },
+    {
+      "name": "MonsterWriter - Write a thesis or just notes",
+      "description": null,
+      "price": "Lifetime $34.99 -> free",
+      "post_date": "2025-06-19T12:10:21+00:00",
+      "link": "https://www.monsterwriter.com/"
+    },
+    {
+      "name": "Two Point Hospital",
+      "description": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff",
+      "price": "CA$41.99 → Free",
+      "post_date": "2025-06-12T15:10:10+00:00",
+      "link": "https://store.epicgames.com/en-US/p/two-point-hospital"
+    },
+    {
+      "name": "DEATHLOOP",
+      "description": "FPS with Two Rival Assassins Trapped in a Mysterious Timeloop",
+      "price": "$79.99 → Free",
+      "post_date": "2025-06-05T16:10:08+00:00",
+      "link": "https://store.epicgames.com/en-US/p/deathloop"
+    },
+    {
+      "name": "Hellslave",
+      "description": "Dark fantasy dungeon crawler where you make a pact with the Devil to repel a demon invasion. Customize your character with powerful demonic abilities, explore a cursed world, and battle nightmarish enemies while resisting the darkness.",
+      "price": null,
+      "post_date": "2025-06-02T18:10:31+00:00",
+      "link": "https://store.steampowered.com/app/1608450/Hellslave/"
+    },
+    {
+      "name": "HITMAN World of Assassination",
+      "description": "Enter the Underground World of Hitman",
+      "price": null,
+      "post_date": "2025-05-29T17:10:38+00:00",
+      "link": "https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/"
+    },
+    {
+      "name": "Tiny Tina's Wonderlands",
+      "description": "Shoot, Loot, Slash, and Cast on a quest to stop the Dragon Lord",
+      "price": "$79.99 → Free",
+      "post_date": "2025-05-29T16:10:21+00:00",
+      "link": "https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands"
+    },
+    {
+      "name": "Warhammer 40,000: Rites of War",
+      "description": "A turn-based strategy game about the Eldar, the remnants of great civilization, who now fight for their very survival and must protect the secrets of their ancestors from both the Imperium of Man and the Tyranids",
+      "price": null,
+      "post_date": "2025-05-22T17:10:25+00:00",
+      "link": "https://www.gog.com/en/game/warhammer_40000_rites_of_war"
+    },
+    {
+      "name": "Deliver At All Costs",
+      "description": "A thrilling action game where destruction, absurdity and intrigue collide! Step into the shoes of a down-on-his-luck courier as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
+      "price": null,
+      "post_date": "2025-05-22T16:10:10+00:00",
+      "link": "https://store.epicgames.com/en-US/p/deliver-at-all-costs-a30c8d"
+    },
+    {
+      "name": "Sifu",
+      "description": "Realistic third-person brawler with tight Kung Fu combat mechanics and cinematic martial arts action embarking you on the path of a young kung fu student seeking vengeance for his family's murder",
+      "price": null,
+      "post_date": "2025-05-22T16:10:08+00:00",
+      "link": "https://store.epicgames.com/en-US/p/sifu"
+    },
+    {
+      "name": "Cast & Spell",
+      "description": "Early access magic-themed shooter with online PvP and co-op PvE modes",
+      "price": "$7.99 → FREE",
+      "post_date": "2025-05-19T01:10:31+00:00",
+      "link": "https://store.steampowered.com/app/3032020/Cast__Spell/"
+    },
+    {
+      "name": "Nubs! Arena",
+      "description": "Fast-paced multiplayer brawler with characters reminiscent of Legend of Zelda: Four Swords",
+      "price": "$10.99 → Free",
+      "post_date": "2025-05-15T16:10:34+00:00",
+      "link": "https://store.steampowered.com/app/2337860/Nubs_Arena"
+    },
+    {
+      "name": "Dead Island 2",
+      "description": "Action Horror Zombie Infestations on an Island",
+      "price": "$79.99 → Free",
+      "post_date": "2025-05-15T16:10:32+00:00",
+      "link": "https://store.epicgames.com/en-US/p/dead-island-2"
+    },
+    {
+      "name": "LEGO Star Wars: The Skywalker Saga",
+      "description": "Play through all nine Skywalker saga films in a game unlike any other. With over 300 playable characters, over 100 vehicles, and 23 planets to explore. Available to claim till tomorrow 3 PM UTC",
+      "price": null,
+      "post_date": "2025-05-04T17:10:31+00:00",
+      "link": "https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga"
+    },
+    {
+      "name": "Super Space Club",
+      "description": "Indie vibrant lo-fi arcade space shooter with good vibes",
+      "price": "$19.99 → Free",
+      "post_date": "2025-05-01T15:10:28+00:00",
+      "link": "https://store.epicgames.com/en-US/p/super-space-club-20adbe"
+    },
+    {
+      "name": "CHUCHEL",
+      "description": "Comedy Adventure Puzzle game from the creators of Machinarium",
+      "price": "$12.99 → Free",
+      "post_date": "2025-04-24T16:10:30+00:00",
+      "link": "https://store.epicgames.com/en-US/p/chuchel-203808"
+    },
+    {
+      "name": "River City Girls",
+      "description": "River City characters Classic Beat'em Up in a Pixel Graphics Brawler",
+      "price": "$33.99 → Free",
+      "post_date": "2025-04-10T15:10:15+00:00",
+      "link": "https://store.epicgames.com/en-US/p/river-city-girls-e6f608"
+    },
+    {
+      "name": "Cat Quest 2",
+      "description": "Cat Action Adventure RPG Game",
+      "price": "$17.99 → Free",
+      "post_date": "2025-04-03T15:10:24+00:00",
+      "link": "https://store.epicgames.com/en-US/p/cat-quest-ii-9dbefc"
+    },
+    {
+      "name": "Neko Ghost, Jump!",
+      "description": "Puzzle-platformer where you will navigate through Nekoworld to rescue your friends from the clutches of the evil Space Dog Pirates. Solve puzzles, combat enemies, and clear levels by switching between 2D & 3D modes and ghost form.",
+      "price": null,
+      "post_date": "2025-03-29T15:10:32+00:00",
+      "link": "https://store.epicgames.com/en-US/p/neko-ghost-jump"
+    },
+    {
+      "name": "Cat Quest",
+      "description": "An open world RPG set in the pawsome world of cats! Explore Felingard's huge overworld map, risk life and limb delving into dungeons for epic loot, and lend a paw to a furry cast of characters in a flurry of side quests",
+      "price": null,
+      "post_date": "2025-03-29T15:10:31+00:00",
+      "link": "https://store.epicgames.com/en-US/p/cat-quest-8373e0"
+    },
+    {
+      "name": "Amerzone: The Explorer’s Legacy (1999)",
+      "description": "The first adventure game from Benoît Sokal (author of Syberia series). Take on the role of a young journalist and reach the heart of a mysterious, faraway land in this immersive cinematic adventure.",
+      "price": null,
+      "post_date": "2025-03-21T18:10:25+00:00",
+      "link": "https://store.steampowered.com/app/302190/Amerzone_The_Explorers_Legacy_1999/"
+    },
+    {
+      "name": "Jurassic World Evolution 2",
+      "description": "Popular Dinosaur Management Simulator",
+      "price": "$26.99 → Free",
+      "post_date": "2025-03-20T15:10:28+00:00",
+      "link": "https://store.epicgames.com/en-US/p/jurassic-world-evolution-2"
+    },
+    {
+      "name": "Mortal Shell",
+      "description": null,
+      "price": "$32.99 → Free",
+      "post_date": "2025-03-13T16:10:12+00:00",
+      "link": "https://store.epicgames.com/en-US/p/mortal-shell"
+    },
+    {
+      "name": "Them's Fightin' Herds",
+      "description": "Fighting Game with Cute Cartoon Animals",
+      "price": "$22.99 → Free",
+      "post_date": "2025-03-06T16:10:39+00:00",
+      "link": "https://store.epicgames.com/en-US/p/thems-fightin-herds"
+    },
+    {
+      "name": "Mage of Mystralia",
+      "description": "Learn Magic and Fight in this Fantasy Action RPG",
+      "price": "$21.99 → Free",
+      "post_date": "2025-02-27T17:10:49+00:00",
+      "link": "https://store.epicgames.com/en-US/p/mages-of-mystralia"
+    },
+    {
+      "name": "Golden Light",
+      "description": "Procedural dark comedy horror game with roguelike elements and an eerie atmosphere. Eat weapons, be scared and question your own mind in this survival-horror game.",
+      "price": null,
+      "post_date": "2025-02-22T15:10:15+00:00",
+      "link": "https://store.steampowered.com/app/1245430/Golden_Light/"
+    },
+    {
+      "name": "Garden Story",
+      "description": "Action-RPG with Fruits & Produce As Characters",
+      "price": "$22.99 → Free",
+      "post_date": "2025-02-20T16:10:21+00:00",
+      "link": "https://store.epicgames.com/en-US/p/garden-story"
+    },
+    {
+      "name": "World War Z: Aftermath",
+      "description": "Third Person Zombie Shooter",
+      "price": "$35.99 → Free",
+      "post_date": "2025-02-20T16:10:20+00:00",
+      "link": "https://store.epicgames.com/en-US/p/world-war-z"
+    },
+    {
+      "name": "F1 Manager 2024",
+      "description": null,
+      "price": "$59.99 → Free",
+      "post_date": "2025-02-13T17:10:29+00:00",
+      "link": "https://store.epicgames.com/en-US/p/f1-manager-2024-fe51bd"
+    },
+    {
+      "name": "Nero Platinum Suite SE",
+      "description": null,
+      "price": null,
+      "post_date": "2025-02-10T10:10:09+00:00",
+      "link": "https://sharewareonsale.com/s/free-nero-platinum-se-100-discount"
+    },
+    {
+      "name": "Beyond Blue",
+      "description": "Single-player narrative adventure that takes you deep into our planet’s beating blue heart",
+      "price": null,
+      "post_date": "2025-02-06T17:10:25+00:00",
+      "link": "https://store.epicgames.com/en-US/p/beyond-blue"
+    },
+    {
+      "name": "Undying",
+      "description": "Surivival Zombie Game Mother Protects Her Young Boy Like The Last of Us",
+      "price": "$22.99 → Free",
+      "post_date": "2025-01-30T16:10:40+00:00",
+      "link": "https://store.epicgames.com/en-US/p/undying"
+    },
+    {
+      "name": "Escape Academy",
+      "description": "The Mega Collection of Escape Rooms and Puzzles",
+      "price": "$22.99 → Free",
+      "post_date": "2025-01-16T17:11:26+00:00",
+      "link": "https://store.epicgames.com/en-US/p/escape-academy-bfc2bf"
+    },
+    {
+      "name": "Hell Let Loose",
+      "description": "Hardcore Multiplayer World War II Shooter",
+      "price": "$59.99 → Free",
+      "post_date": "2025-01-02T16:10:40+00:00",
+      "link": "https://store.epicgames.com/en-US/p/hell-let-loose-03f036"
+    },
+    {
+      "name": "Kingdom Come: Deliverance",
+      "description": "Open World Story in the Roman Empire Era",
+      "price": "$42.99 → Free",
+      "post_date": "2025-01-01T16:10:51+00:00",
+      "link": "https://store.epicgames.com/en-US/p/kingdom-come-deliverance"
+    },
+    {
+      "name": "REDACTED",
+      "description": "Rogue-lite where Only One of You Can Escape to The Moon",
+      "price": "$32.99 → Free",
+      "post_date": "2024-12-30T16:10:43+00:00",
+      "link": "https://store.epicgames.com/en-US/p/redacted-d9d21e"
+    },
+    {
+      "name": "Orcs Must Die! 3",
+      "description": "Tower Defense Against Orcs",
+      "price": "$49.99 → Free",
+      "post_date": "2024-12-29T16:10:27+00:00",
+      "link": "https://store.epicgames.com/en-US/p/combo-a7e03a"
+    },
+    {
+      "name": "KILL KNIGHT",
+      "description": "Arcade-Inspired Isometric Action Shooter in Hell",
+      "price": "$19.99 → Free",
+      "post_date": "2024-12-28T16:10:53+00:00",
+      "link": "https://store.epicgames.com/en-US/p/kill-knight-e981b3"
+    },
+    {
+      "name": "HOT WHEELS UNLEASHED",
+      "description": "Toy Cars Brought to Life in This Video Game",
+      "price": "$59.99 → Free",
+      "post_date": "2024-12-27T16:10:29+00:00",
+      "link": "https://store.epicgames.com/en-US/p/hot-wheels-unleashed"
+    },
+    {
+      "name": "The Dark Eye: Chains of Satinav",
+      "description": "Point & click adventure game written by authors of the pen and paper RPG The Dark Eye. Take on the role of a hero caught up in a mysterious plot that threatens to wipe out the kingdom of Andergast in the fantastical world of Aventuria.",
+      "price": null,
+      "post_date": "2024-12-27T15:11:08+00:00",
+      "link": "https://www.gog.com/en/game/the_dark_eye_chains_of_satinav"
+    },
+    {
+      "name": "Control",
+      "description": "Play as Jesse Faden to Discover Secrets in the Agency and Become the Next Director",
+      "price": "$54.50 → Free",
+      "post_date": "2024-12-25T16:10:07+00:00",
+      "link": "https://store.epicgames.com/en-US/p/control"
+    },
+    {
+      "name": "Dark and Darker - Legendary Status",
+      "description": "Paid DLC Upgrade for Dark and Darker and Special Access to Paid Only Content",
+      "price": "$30.00 → Free",
+      "post_date": "2024-12-23T17:10:19+00:00",
+      "link": "https://store.epicgames.com/en-US/p/dark-and-darker-qa-dark-and-darker-legendary-status-a83d59"
+    },
+    {
+      "name": "TerraTech",
+      "description": "A Open World Sandbox Game to Craft Your Own Creations",
+      "price": "$24.99 → Free",
+      "post_date": "2024-12-21T16:10:34+00:00",
+      "link": "https://store.epicgames.com/en-US/p/terratech-02ab0a"
+    },
+    {
+      "name": "Astrea: Six Sided Oracles",
+      "description": "Use Dice Instead Of Cards in this DICE-deck-building Fantasy Roguelike Game",
+      "price": "$32.50 → Free",
+      "post_date": "2024-12-20T16:10:51+00:00",
+      "link": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949"
+    },
+    {
+      "name": "Chicken Assassin: Reloaded",
+      "description": "Fast paced action-RPG with an outrageous storyline filled with over-the-top humor that boasts a myriad of colorful enemies and visually stunning levels and environments.",
+      "price": null,
+      "post_date": "2024-12-19T16:10:44+00:00",
+      "link": "https://www.gog.com/en/game/chicken_assassin_reloaded"
+    },
+    {
+      "name": "Vampire Survivors",
+      "description": "Become the Bullet Hell And Level Up",
+      "price": "$5.99 → Free",
+      "post_date": "2024-12-19T16:10:44+00:00",
+      "link": "https://store.epicgames.com/en-US/p/vampire-survivors-f699a1"
+    },
+    {
+      "name": "The Lord of The Rings - Return to Moria",
+      "description": "A Survival Craft Star Wars Spin-off Game",
+      "price": "$49.99 → Free",
+      "post_date": "2024-12-12T16:10:41+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344"
+    },
+    {
+      "name": "Bus Simulator 21 Next Stop",
+      "description": "You can be a Bus Driver Without The Bum Pain in Both Career Mode And Sandbox Mode",
+      "price": "$34.99 → Free",
+      "post_date": "2024-12-05T17:10:40+00:00",
+      "link": "https://store.epicgames.com/en-US/p/bus-simulator-21"
+    },
+    {
+      "name": "LEGO Star Wars - The Skywalker Saga",
+      "description": "A Star Wars Spin-off In The Lego Franchise",
+      "price": "$49.99 → Free",
+      "post_date": "2024-12-05T17:10:39+00:00",
+      "link": "https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga"
+    },
+    {
+      "name": "Brotato",
+      "description": "Shooter Roguelite As A Potato!",
+      "price": "$13.99 → Free",
+      "post_date": "2024-11-28T16:10:46+00:00",
+      "link": "https://store.epicgames.com/en-US/p/brotato-ed4097"
+    },
+    {
+      "name": "Dark Sector",
+      "description": "Third-person Action/Shooter set in Cold War Era",
+      "price": null,
+      "post_date": "2024-11-27T18:11:03+00:00",
+      "link": "https://store.steampowered.com/app/29900"
+    },
+    {
+      "name": "Beholder",
+      "description": "Become a Dystopian Apartment Building Landlord",
+      "price": "$13.99 → Free",
+      "post_date": "2024-11-21T17:11:01+00:00",
+      "link": "https://store.epicgames.com/en-US/p/beholder-8c3b4c"
+    },
+    {
+      "name": "Half-Life 2",
+      "description": "Free in celebration of the 20th anniversary of Half-Life 2. Now includes Episodes One and Two expansions, Half-Life 2: Lost Coast and Half-Life 2: Deathmatch in the box along with a great number of bug fixes and enhancements",
+      "price": null,
+      "post_date": "2024-11-16T04:10:45+00:00",
+      "link": "https://store.steampowered.com/app/220/HalfLife_2/"
+    },
+    {
+      "name": "Diggles: The Myth of Fenris",
+      "description": "Side-scrolling strategy and colony management game",
+      "price": null,
+      "post_date": "2024-11-15T17:11:02+00:00",
+      "link": "https://www.gog.com/en/game/diggles_the_myth_of_fenris"
+    },
+    {
+      "name": "Castlevania Anniversary Collection",
+      "description": "Classic Vampire-Themed Platformer",
+      "price": "$25.99 → Free",
+      "post_date": "2024-11-14T16:11:11+00:00",
+      "link": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94"
+    },
+    {
+      "name": "Snakebird Complete",
+      "description": "Collect Fruits and solve mazes in this Puzzle Game",
+      "price": "$27.99 → Free",
+      "post_date": "2024-11-14T16:11:10+00:00",
+      "link": "https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae"
+    },
+    {
+      "name": "Deceive Inc.",
+      "description": "Go undercover as the world’s greatest spies in this multiplayer game of subterfuge. Disguise as anyone, deploy high-tech gadgets or neutralize the competition. As long as you extract with the objective, no trick is too dirty when you work for Deceive Inc.",
+      "price": null,
+      "post_date": "2024-11-07T17:10:37+00:00",
+      "link": "https://store.epicgames.com/en-US/p/deceive-inc"
+    },
+    {
+      "name": "Return of the Phantom",
+      "description": "Witness the tragedy that befalls the audience inside the famed Paris Opera House in this point and click adventure game. Step back in time as you explore the opera's labyrinth of catacombs to prevent the Red Death from terrorizing the present",
+      "price": null,
+      "post_date": "2024-10-31T17:11:08+00:00",
+      "link": "https://www.gog.com/en/game/return_of_the_phantom"
+    },
+    {
+      "name": "Witch It",
+      "description": "Multiplayer Hide & Seek Game Featuring War Between Witches and Hunters",
+      "price": "$26.99 → Free",
+      "post_date": "2024-10-31T16:10:58+00:00",
+      "link": "https://store.epicgames.com/en-US/p/witch-it-3624a9"
+    },
+    {
+      "name": "Ghostwire: Tokyo",
+      "description": "Fight Supernatural Forces Roaming the City Action Adventure Game",
+      "price": "$79.99 → Free",
+      "post_date": "2024-10-31T16:10:57+00:00",
+      "link": "https://store.epicgames.com/en-US/p/ghostwire-tokyo"
+    },
+    {
+      "name": "Moving Out",
+      "description": "Ridiculous physics-based moving simulation game with couch co-op",
+      "price": null,
+      "post_date": "2024-10-24T19:10:26+00:00",
+      "link": "https://store.epicgames.com/en-US/p/moving-out"
+    },
+    {
+      "name": "Kardboard Kings",
+      "description": "Trading Card Shop Simulator",
+      "price": "$21.99 → Free",
+      "post_date": "2024-10-17T16:11:08+00:00",
+      "link": "https://store.epicgames.com/en-US/p/kardboard-kings-0962f8"
+    },
+    {
+      "name": "Invincible Presents: Atom Eve",
+      "description": "Atom Eve, a superheroine comic hero game",
+      "price": "$11.99 → Free",
+      "post_date": "2024-10-17T16:11:06+00:00",
+      "link": "https://store.epicgames.com/en-US/p/atom-eve-ff090d"
+    },
+    {
+      "name": "Nero Platinum Suite 2025 Presale",
+      "description": "$$159.95–>$69.95 [All-In-One Multi-media PC tools, Burn CD &DVD, video edit and more AI-related",
+      "price": null,
+      "post_date": "2024-10-16T10:10:19+00:00",
+      "link": "https://store.nero.com/order/checkout.php?PRODS=47130706&QTY=1&PAY_TYPE=PAYPAL&HIDEDPS=1&DESIGN_TYPE=2&CLEAN_CART=ALL&CART=1&CARD=1&SAVE=1&SHORT_FORM=1&ORDERSTYLE=nLWonpa5kHQ=&C=cart_banner.jpg&COUPON=prsl25&ADDITIONAL_x_source=reddit&ecid=etr.am.......R16153"
+    },
+    {
+      "name": "Nero AI Image Upscaler & Video Upscaler Bundle",
+      "description": "One-year premium for Nero AI Upcaler Bundle",
+      "price": null,
+      "post_date": "2024-10-14T03:10:46+00:00",
+      "link": "https://store.nero.com/order/checkout.php?PRODS=40600953,43175520&QTY=1&DESIGN_TYPE=2&CLEAN_CART=ALL&CARD=1&SAVE=1&SHORT_FORM=1&ORDERSTYLE=nLWonpa5kHQ=&COUPON=BE2W9T8X9V&ADDITIONAL_x_source=pcai...reddit.&ecid=etr.am.......R15996"
+    },
+    {
+      "name": "Outliver: Tribulation",
+      "description": "Action-Adventure Third Person Survival Horror Game with African Mythology",
+      "price": null,
+      "post_date": "2024-10-10T17:10:51+00:00",
+      "link": "https://store.epicgames.com/en-US/p/outliver-tribulations-679884"
+    },
+    {
+      "name": "Bear and Breakfast",
+      "description": "A Relaxing Management Game - Play as a Bear and Manage Your Inn",
+      "price": null,
+      "post_date": "2024-10-03T16:11:11+00:00",
+      "link": "https://store.epicgames.com/en-US/p/bear-and-breakfast-77c209"
+    },
+    {
+      "name": "The Spirit and the Mouse",
+      "description": "Play as a Mouse navigating the Dangerous Busy Streets in France with a Spirit Guardian",
+      "price": null,
+      "post_date": "2024-09-26T16:10:51+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-spirit-and-the-mouse-42390b"
+    },
+    {
+      "name": "TOEM",
+      "description": "Explore the Delightful Island as The Photographer in this Hand-Drawn Adventure Game",
+      "price": null,
+      "post_date": "2024-09-19T16:11:09+00:00",
+      "link": "https://store.epicgames.com/en-US/p/toem"
+    },
+    {
+      "name": "The Last Stand: Aftermath",
+      "description": "Play as the Infected Survivor Who Helps His Colony From Zombies Before He Turns",
+      "price": null,
+      "post_date": "2024-09-19T16:11:08+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-last-stand-aftermath"
+    },
+    {
+      "name": "Rugrats: Adventures in Gameland",
+      "description": "A Rugrats Action-Adventure Platformer Game",
+      "price": null,
+      "post_date": "2024-09-12T16:11:48+00:00",
+      "link": "https://store.epicgames.com/en-US/p/rugrats-adventures-in-gameland-737402"
+    },
+    {
+      "name": "SUPER CRAZY RHYTHM CASTLE",
+      "description": "Advance the Castle By Solving Rhythm Puzzle Games",
+      "price": null,
+      "post_date": "2024-09-12T16:11:47+00:00",
+      "link": "https://store.epicgames.com/en-US/p/super-crazy-rhythm-castle-e3b464"
+    },
+    {
+      "name": "Football Manager 2024",
+      "description": null,
+      "price": null,
+      "post_date": "2024-09-05T16:11:28+00:00",
+      "link": "https://store.epicgames.com/en-US/p/football-manager-2024"
+    },
+    {
+      "name": "Sniper Ghost Warrior Contracts",
+      "description": "Play as the Ultimate Sniper in Modern Warfare and Plan Your Strategy",
+      "price": null,
+      "post_date": "2024-09-05T16:11:27+00:00",
+      "link": "https://store.epicgames.com/en-US/p/sniper-ghost-warrior-contracts-c772b9"
+    },
+    {
+      "name": "Once Upon a Jester",
+      "description": "Travel the kingdom as Jester with his best friend Sok to improvise theatre shows and perform on stages far and wide. Sing your hearts out, crack jokes and impress audiences to become the stars of the famous Royal Theatrical Spectacle!",
+      "price": null,
+      "post_date": "2024-09-02T14:10:19+00:00",
+      "link": "https://www.gog.com/game/once_upon_a_jester"
+    },
+    {
+      "name": "Wild Card Football",
+      "description": "Play American Football with Super Power-up Cards",
+      "price": null,
+      "post_date": "2024-08-29T16:11:00+00:00",
+      "link": "https://store.epicgames.com/en-US/p/wild-card-football"
+    },
+    {
+      "name": "Fallout - Classic Collection",
+      "description": "The Famous Classics in the Nuclear Post-apocalyptic RPG Genre",
+      "price": null,
+      "post_date": "2024-08-29T16:10:59+00:00",
+      "link": "https://store.epicgames.com/en-US/bundles/fallout-classic-collection"
+    },
+    {
+      "name": "Tropico 4",
+      "description": "City management and political simulation game. Play as El Presidente of a banana republic island, managing its economy, politics, and factions.",
+      "price": null,
+      "post_date": "2024-08-26T15:11:48+00:00",
+      "link": "https://www.gog.com/game/tropico_4"
+    },
+    {
+      "name": "Weapon of Choice DX",
+      "description": "Side-scroller in which each playable character is unique with their own special weapon and abilities. Blast insane aliens, find new player characters, and choose between branching paths",
+      "price": null,
+      "post_date": "2024-08-22T21:10:08+00:00",
+      "link": "https://store.steampowered.com/app/373600/Weapon_of_Choice_DX/"
+    },
+    {
+      "name": "Gigantic: Rampage Edition",
+      "description": "5v5 MOBA Hero Shooter with DLC included",
+      "price": null,
+      "post_date": "2024-08-22T16:11:08+00:00",
+      "link": "https://store.epicgames.com/en-US/p/gigantic-rampage-edition-03f532"
+    },
+    {
+      "name": "The Callisto Protocol",
+      "description": "Play as a Hallucinating Fugitive in this Third-person survival horror game set 300 years in the future",
+      "price": null,
+      "post_date": "2024-08-22T16:11:07+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-callisto-protocol"
+    },
+    {
+      "name": "Death's Gambit - Afterlife",
+      "description": "Dark Fantasy Action Platformer",
+      "price": null,
+      "post_date": "2024-08-15T16:10:52+00:00",
+      "link": "https://store.epicgames.com/en-US/p/deaths-gambit-afterlife-b5f411"
+    },
+    {
+      "name": "Intravenous",
+      "description": "Splinter Cell Inspired Game",
+      "price": "$25.99 → Free",
+      "post_date": "2024-08-08T16:10:32+00:00",
+      "link": "https://www.gog.com/#giveaway"
+    },
+    {
+      "name": "CYGNI - All Guns Blazing",
+      "description": "Space Shoot'Em Up Shooter Arcade Game",
+      "price": null,
+      "post_date": "2024-08-08T15:10:26+00:00",
+      "link": "https://store.epicgames.com/en-US/p/cygni-all-guns-blazing-98f872"
+    },
+    {
+      "name": "DNF Duel",
+      "description": "2.5D Action Anime Fighting Game",
+      "price": "$59.99 → Free",
+      "post_date": "2024-08-08T15:10:25+00:00",
+      "link": "https://store.epicgames.com/en-US/p/dnf-duel-07d055"
+    },
+    {
+      "name": "Intravenous",
+      "description": "Hardcore stealth action tactics game with a gritty story, reactive enemy AI and lots of weapons",
+      "price": null,
+      "post_date": "2024-08-08T14:10:27+00:00",
+      "link": "https://www.gog.com/game/intravenous"
+    },
+    {
+      "name": "LumbearJack",
+      "description": "A Bear Axing and Recycling Every Man-made Thing in His Forest",
+      "price": null,
+      "post_date": "2024-08-01T16:11:15+00:00",
+      "link": "https://store.epicgames.com/en-US/p/lumbearjack-b5bedf"
+    },
+    {
+      "name": "F.I.S.T.: Forged In Shadow Torch",
+      "description": "Metroidvania action game featuring exploration, intense combat and challenging platforming",
+      "price": null,
+      "post_date": "2024-07-25T16:11:02+00:00",
+      "link": "https://store.epicgames.com/en-US/p/fist-forged-in-shadow-torch"
+    },
+    {
+      "name": "Arcade Paradise",
+      "description": "90’s-fuelled retro arcade adventure with over 35 arcade games inspired by 3 decades of gaming, from early vector games right up to the 32-bit era. Has online leaderboards, jukebox, co-operative & competitive arcade games with up to 4 players locally",
+      "price": null,
+      "post_date": "2024-07-18T16:10:37+00:00",
+      "link": "https://store.epicgames.com/en-US/p/arcade-paradise"
+    },
+    {
+      "name": "Maid of Sker",
+      "description": "First-person survival horror, set in a remote hotel with a gory and macabre history from British folklore. Armed with only a defensive sound device, you’ll utilise stealth tactics to avoid death amongst a cult of sound-based AI enemies.",
+      "price": null,
+      "post_date": "2024-07-18T16:10:36+00:00",
+      "link": "https://store.epicgames.com/en-US/p/maid-of-sker-2ae24e"
+    },
+    {
+      "name": "Intravenous",
+      "description": "Hardcore stealth action tactics game with a gritty story, reactive enemy AI and lots of weapons",
+      "price": null,
+      "post_date": "2024-07-15T18:10:08+00:00",
+      "link": "https://store.steampowered.com/app/1486630/Intravenous/"
+    },
+    {
+      "name": "Floppy Knights",
+      "description": "Turn-based Tactics Meet Card-game Strategy with Cute Cartoon Graphics",
+      "price": "$22.79 → Free",
+      "post_date": "2024-07-11T15:10:18+00:00",
+      "link": "https://store.epicgames.com/en-US/p/floppy-knights-6a735a"
+    },
+    {
+      "name": "The Falconeer",
+      "description": "Fly the Warbird and Complete Air Combat Missions",
+      "price": "$22.99 → Free",
+      "post_date": "2024-07-04T16:10:03+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-falconeer"
+    },
+    {
+      "name": "The First Templar - Special Edition",
+      "description": "Take control over two unlikely allies, uncover the mysteries behind the Templar Order, play a role in a grand conspiracy, and discover the secret of the Holy Grail",
+      "price": null,
+      "post_date": "2024-07-03T14:10:50+00:00",
+      "link": "https://www.gog.com/game/the_first_templar"
+    },
+    {
+      "name": "Sunless Skies: Sovereign Edition",
+      "description": "Gothic Horror roleplay game with exquisite storytelling",
+      "price": "$27.99 → Free",
+      "post_date": "2024-06-27T16:10:55+00:00",
+      "link": "https://store.epicgames.com/en-US/p/sunless-skies-bb4947"
+    },
+    {
+      "name": "Islands of Insight",
+      "description": "Seek out and solve 10,000+ puzzles at your own pace across this sublime shared-world puzzle game set in a fantasy realm of ancient wonders and natural beauty",
+      "price": null,
+      "post_date": "2024-06-26T18:10:12+00:00",
+      "link": "https://store.steampowered.com/app/2071500/Islands_of_Insight/"
+    },
+    {
+      "name": "Shadows: Awakening",
+      "description": "Take control of a demon summoned from the Shadow Realm to consume the souls of long-dead heroes and embark on an epic adventure in this isometric single-player RPG with real-time tactical combat & fully voiced dialogues",
+      "price": null,
+      "post_date": "2024-06-21T15:10:56+00:00",
+      "link": "https://www.gog.com/game/shadows_awakening"
+    },
+    {
+      "name": "Freshly Frosted",
+      "description": "A Donut Factory Puzzle Game with over 140 Puzzles",
+      "price": "$10.99 → Free",
+      "post_date": "2024-06-20T15:10:52+00:00",
+      "link": "https://store.epicgames.com/en-US/p/freshly-frosted-c636d0"
+    },
+    {
+      "name": "Redout 2",
+      "description": "Autosports in the dystopian wastelands of a semi-abandoned Earth",
+      "price": "$25.49 → Free",
+      "post_date": "2024-06-13T15:10:25+00:00",
+      "link": "https://store.epicgames.com/en-US/p/redout-2"
+    },
+    {
+      "name": "Marvel's Midnight Suns",
+      "description": "A RPG Turn-based video game with Marvel superheroes",
+      "price": "$44.99 → Free",
+      "post_date": "2024-06-06T15:10:41+00:00",
+      "link": "https://store.epicgames.com/en-US/p/marvels-midnight-suns"
+    },
+    {
+      "name": "Chivalry 2",
+      "description": "First Person Hack and Slash Epic Battles in Medieval Era",
+      "price": "$43.99 → Free",
+      "post_date": "2024-05-30T15:10:30+00:00",
+      "link": "https://store.epicgames.com/en-US/p/chivalry-2"
+    },
+    {
+      "name": "Warhammer 40,000: Gladius - Relics of War",
+      "description": "Turn-based 4X strategy game set in the Warhammer 40,000 universe",
+      "price": null,
+      "post_date": "2024-05-23T17:10:37+00:00",
+      "link": "https://store.epicgames.com/en-US/p/warhammer-40000-gladius-relics-of-war"
+    },
+    {
+      "name": "Farming Simulator 22",
+      "description": "Take the role of a modern farmer and creatively build your farm",
+      "price": "$29.99 → Free",
+      "post_date": "2024-05-23T16:10:07+00:00",
+      "link": "https://store.epicgames.com/en-US/p/farming-simulator-22"
+    },
+    {
+      "name": "Dragon Age: Inquisition – Game of the Year Edition",
+      "description": "Fantasy Open World RPG with Character Customization and A Story Rich Plot",
+      "price": "$54.99 → Free",
+      "post_date": "2024-05-16T15:10:27+00:00",
+      "link": "https://store.epicgames.com/en-US/p/dragon-age-inquisition-game-of-the-year-edition-2f0cbd"
+    },
+    {
+      "name": "Circus Electrique",
+      "description": "Tactic Turn-Based Strategy RPG Driven By A Circus Story Plot",
+      "price": "$24.99 → Free",
+      "post_date": "2024-05-09T15:10:20+00:00",
+      "link": "https://store.epicgames.com/en-US/p/circus-electrique"
+    },
+    {
+      "name": "Cat Quest II",
+      "description": "2D open-world action-RPG set in a fantasy realm of cats and dogs",
+      "price": "$17.49 → Free",
+      "post_date": "2024-05-02T15:10:35+00:00",
+      "link": "https://store.epicgames.com/en-US/p/cat-quest-ii-9dbefc"
+    },
+    {
+      "name": "LISA: The Definitive Edition",
+      "description": "2 in 1 Games - Explore Olathe Wasteland and unmask its twisted secrets",
+      "price": "$49.99 → Free",
+      "post_date": "2024-04-25T15:10:59+00:00",
+      "link": "https://store.epicgames.com/en-US/bundles/lisa-the-definitive-edition"
+    },
+    {
+      "name": "INDUSTRIA",
+      "description": "FPS Cold War with a Time Travel from Fall of Berlin Plot",
+      "price": "$22.99 → Free",
+      "post_date": "2024-04-25T15:10:58+00:00",
+      "link": "https://store.epicgames.com/en-US/p/industria"
+    },
+    {
+      "name": "Town of Salem 2",
+      "description": "Wild West Cartoon Social Deduction Game for Detectives and Deceit",
+      "price": "$12.99 → Free",
+      "post_date": "2024-04-18T15:10:57+00:00",
+      "link": "https://store.epicgames.com/en-US/p/town-of-salem-2-ab6497"
+    },
+    {
+      "name": "The Big Con",
+      "description": "Play as petty thieves in this comedic 90s themed adventure game",
+      "price": "$19.99 → Free",
+      "post_date": "2024-04-18T15:10:56+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-big-con"
+    },
+    {
+      "name": "Ghostrunner",
+      "description": "Hardcore first person platformer game packed with lightning-fast action, set in a grim, cyberpunk megastructure",
+      "price": null,
+      "post_date": "2024-04-11T16:10:46+00:00",
+      "link": "https://store.epicgames.com/en-US/p/ghostrunner"
+    },
+    {
+      "name": "The Outer Worlds: Spacer's Choice Edition",
+      "description": null,
+      "price": "$59.99 → Free",
+      "post_date": "2024-04-04T16:11:06+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-outer-worlds-spacers-choice-edition"
+    },
+    {
+      "name": "Thief",
+      "description": "Play as a Master Thief and use stealth to avoid getting caught",
+      "price": "$59.99 → Free",
+      "post_date": "2024-04-04T16:11:05+00:00",
+      "link": "https://store.epicgames.com/en-US/p/thief-5bb95f"
+    },
+    {
+      "name": "Hammerting",
+      "description": "Manage a clan of colourful Dwarves, establish an epic mining operation, craft legendary swords and delve deep for greater glory, riches... and danger",
+      "price": null,
+      "post_date": "2024-03-29T15:11:08+00:00",
+      "link": "https://www.gog.com/game/hammerting"
+    },
+    {
+      "name": "Islets",
+      "description": "Beautifully Hand Drawn Metroidvania Platformer Game",
+      "price": "$25.99 → Free",
+      "post_date": "2024-03-28T15:10:53+00:00",
+      "link": "https://store.epicgames.com/en-US/p/islets-5f2670"
+    },
+    {
+      "name": "Call of the Wild: The Angler ™",
+      "description": "Become an Angler in this Casual Open World Fishing Game",
+      "price": "$32.99 → Free",
+      "post_date": "2024-03-21T15:10:35+00:00",
+      "link": "https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler"
+    },
+    {
+      "name": "The Bridge",
+      "description": "Logic Puzzle Game to Challenge the player to reevaluate their understanding of physics",
+      "price": "$10.99 → Free",
+      "post_date": "2024-03-14T15:11:09+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-bridge"
+    },
+    {
+      "name": "Deus Ex: Mankind Divided",
+      "description": "Sequel to HR: Part of the Famous Cyberpunk action-RPG series",
+      "price": "$34.99 → Free",
+      "post_date": "2024-03-14T15:11:08+00:00",
+      "link": "https://store.epicgames.com/en-US/p/deus-ex-mankind-divided-4c6370"
+    },
+    {
+      "name": "Astro Duel 2",
+      "description": "A Dog Game, 2D Indie Arcade Platformer and Spaceship Versus Fights",
+      "price": "$15.99 → Free",
+      "post_date": "2024-03-07T16:10:23+00:00",
+      "link": "https://store.epicgames.com/en-US/p/astro-duel-2-e1261d"
+    },
+    {
+      "name": "Aerial_Knight's Never Yield",
+      "description": "2.5D Indie Side Scrolling Sliding Parkour Platformer",
+      "price": "$15.99 → Free",
+      "post_date": "2024-02-29T16:10:28+00:00",
+      "link": "https://store.epicgames.com/en-US/p/aerial-knights-never-yield"
+    },
+    {
+      "name": "Nomads of Driftland: The Forgotten Passage",
+      "description": "Fantasy real-time strategy game",
+      "price": null,
+      "post_date": "2024-02-29T16:10:27+00:00",
+      "link": "https://www.gog.com/en/game/nomads_of_driftland_the_forgotten_passage"
+    },
+    {
+      "name": "Super Meat Boy Forever",
+      "description": "Silly Cartoon Brutal Bloody Indie Platformer",
+      "price": "$21.99 → Free",
+      "post_date": "2024-02-22T16:12:02+00:00",
+      "link": "https://store.epicgames.com/en-US/p/super-meat-boy-forever"
+    },
+    {
+      "name": "Dakar Desert Rally",
+      "description": "Big Scale Off-road Rally Racing Game",
+      "price": "$35.99 → Free",
+      "post_date": "2024-02-15T16:10:36+00:00",
+      "link": "https://store.epicgames.com/en-US/p/dakar-desert-rally"
+    },
+    {
+      "name": "Lost Castle",
+      "description": "Action RPG beat'em up with roguelike elements and randomized dungeons",
+      "price": null,
+      "post_date": "2024-02-08T17:10:06+00:00",
+      "link": "https://store.epicgames.com/en-US/p/lost-castle-abb2e2"
+    },
+    {
+      "name": "Doors: Paradox",
+      "description": "Relaxing, diorama puzzle escape game with 58 door-o-ramas set in 13 unique realms",
+      "price": null,
+      "post_date": "2024-02-01T17:10:07+00:00",
+      "link": "https://store.epicgames.com/en-US/p/doors-paradox-5896c7"
+    },
+    {
+      "name": "The Beast Inside",
+      "description": "First-person horror-thriller game that takes place across two separate timelines",
+      "price": null,
+      "post_date": "2024-01-31T15:11:20+00:00",
+      "link": "https://www.gog.com/en/game/the_beast_inside"
+    },
+    {
+      "name": "Infinifactory",
+      "description": "Sandbox Puzzle Game in Space!",
+      "price": "$35.99 → Free",
+      "post_date": "2024-01-25T16:10:43+00:00",
+      "link": "https://store.epicgames.com/en-US/p/infinifactory-ec9686"
+    },
+    {
+      "name": "Mordheim: City of the Damned",
+      "description": "Turn-based tactical game where you lead warbands into bloody and lethal skirmishes",
+      "price": null,
+      "post_date": "2024-01-25T15:10:46+00:00",
+      "link": "https://www.gog.com/game/mordheim_city_of_the_damned"
+    },
+    {
+      "name": "LOVE",
+      "description": "Retro Platformer with Crazy Levels and in Pixel Graphics",
+      "price": "$5.99 → Free",
+      "post_date": "2024-01-18T16:11:18+00:00",
+      "link": "https://store.epicgames.com/en-US/p/love-65c4d0"
+    },
+    {
+      "name": "Sail Forth",
+      "description": "Sail a fleet of customizable ships across an ocean whose ancient depths have swallowed the key to the mysterious past",
+      "price": null,
+      "post_date": "2024-01-13T16:11:03+00:00",
+      "link": "https://store.epicgames.com/en-US/p/sail-forth-51847e"
+    },
+    {
+      "name": "Marvel's Guardians of the Galaxy",
+      "description": "Marvel Superhero Action-Adventure Combat Game",
+      "price": "$79.99 → Free",
+      "post_date": "2024-01-04T16:10:31+00:00",
+      "link": "https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy"
+    },
+    {
+      "name": "A Plague Tale: Innocence",
+      "description": "Survival Adventure Game taking place in France during the infamous plague outbreak",
+      "price": "$54.99 → Free",
+      "post_date": "2024-01-03T16:10:53+00:00",
+      "link": "https://store.epicgames.com/en-US/p/a-plague-tale-innocence"
+    },
+    {
+      "name": "20 Minutes Till Dawn",
+      "description": "Pixel Style Bullet Hell Lovecraftian Survival Game",
+      "price": "$5.99 → Free",
+      "post_date": "2024-01-02T16:10:41+00:00",
+      "link": "https://store.epicgames.com/en-US/p/20-minutes-till-dawn-be3305"
+    },
+    {
+      "name": "Saints Row",
+      "description": "Open world adventure game",
+      "price": "₹1,680 → Free",
+      "post_date": "2023-12-30T16:11:05+00:00",
+      "link": "https://store.epicgames.com/en-US/p/saints-row"
+    },
+    {
+      "name": "South of the Circle",
+      "description": "Emotional narrative game with a deep multi-layered cinematic story",
+      "price": null,
+      "post_date": "2023-12-29T15:10:50+00:00",
+      "link": "https://www.gog.com/game/south_of_the_circle"
+    },
+    {
+      "name": "Cursed to Golf",
+      "description": "Unique game that combines a platformer with golfing & roguelike elements",
+      "price": null,
+      "post_date": "2023-12-27T17:10:19+00:00",
+      "link": "https://store.epicgames.com/en-US/p/cursed-to-golf-a6bc22"
+    },
+    {
+      "name": "Human Resource Machine",
+      "description": "Cartoonish Employees Management Simulator Puzzle Game",
+      "price": "$17.99 → Free",
+      "post_date": "2023-12-26T16:10:21+00:00",
+      "link": "https://store.epicgames.com/en-US/p/human-resource-machine"
+    },
+    {
+      "name": "Lacuna – A Sci-Fi Noir Adventure",
+      "description": "Modern dialog-driven adventure game set in a gorgeous 2D sci-fi noir universe",
+      "price": null,
+      "post_date": "2023-12-26T15:10:45+00:00",
+      "link": "https://www.gog.com/game/lacuna_a_scifi_noir_adventure"
+    },
+    {
+      "name": "Fallout 3: Game of the Year Edition",
+      "description": "Famous Classic 3rd Person Post-Apocalyptic RPG Game",
+      "price": "$26.99 → Free",
+      "post_date": "2023-12-23T16:10:12+00:00",
+      "link": "https://store.epicgames.com/en-US/p/fallout-3-game-of-the-year-edition"
+    },
+    {
+      "name": "Caveblazers",
+      "description": "Roguelike platformer set in a fantasy world with procedurally generated levels",
+      "price": null,
+      "post_date": "2023-12-22T16:13:22+00:00",
+      "link": "https://www.gog.com/game/caveblazers"
+    },
+    {
+      "name": "Art of Rally",
+      "description": "Arcade Styled Racing Game from the creator of Absolute Drift",
+      "price": "$32.50 → Free",
+      "post_date": "2023-12-22T16:13:21+00:00",
+      "link": "https://store.epicgames.com/en-US/p/art-of-rally"
+    },
+    {
+      "name": "Melvore Idle",
+      "description": "Idle RPG inspired by Runescape",
+      "price": "$9.99 → Free",
+      "post_date": "2023-12-21T16:11:03+00:00",
+      "link": "https://store.epicgames.com/en-US/p/melvor-idle-b6a9b3"
+    },
+    {
+      "name": "Destiny 2: Legacy Collection (2023)",
+      "description": "This edition includes The Witch Queen, Beyond Light, and Shadowkeep expansions",
+      "price": null,
+      "post_date": "2023-12-13T19:10:50+00:00",
+      "link": "https://store.epicgames.com/en-US/p/destiny-2--legacy-collection-2023"
+    },
+    {
+      "name": "Predecessor",
+      "description": "Early Access 3rd Person Cage Fighting Game with Fast-paced Action",
+      "price": "$9.99 → Free",
+      "post_date": "2023-12-07T17:10:53+00:00",
+      "link": "https://store.epicgames.com/en-US/p/predecessor"
+    },
+    {
+      "name": "Gigabash",
+      "description": "Indie Arena Fighting Game with Crazy Attacks and Destructible Environments",
+      "price": "$32.99 → Free",
+      "post_date": "2023-12-07T16:13:50+00:00",
+      "link": "https://store.epicgames.com/en-US/p/gigabash"
+    },
+    {
+      "name": "Jitsu Squad",
+      "description": "Fast Paced TAG TEAM Beat Em Up in Cartoonish Style",
+      "price": "$21.99 → Free",
+      "post_date": "2023-11-30T17:10:40+00:00",
+      "link": "https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f"
+    },
+    {
+      "name": "Mighty Fight Federation",
+      "description": "Arena Fighting Game with other VG Characters Crossovers",
+      "price": "$32.99 → Free",
+      "post_date": "2023-11-30T16:13:26+00:00",
+      "link": "https://store.epicgames.com/en-US/p/mighty-fight-federation"
+    },
+    {
+      "name": "Milk inside a bag of milk inside a bag of milk",
+      "description": "Very short but captivating psychological visual novel",
+      "price": "$0.99 → FREE",
+      "post_date": "2023-11-30T15:10:12+00:00",
+      "link": "https://nikita-kryukov.itch.io/pmkm"
+    },
+    {
+      "name": "Assassin's Creed Syndicate - Standard Edition",
+      "description": "Command London’s underworld during the Industrial Revolution in this open world action adventure game",
+      "price": null,
+      "post_date": "2023-11-27T15:10:10+00:00",
+      "link": "https://register.ubisoft.com/acsyndicate/"
+    },
+    {
+      "name": "Deliver Us Mars",
+      "description": "Space Exploration Adventure Game",
+      "price": "$38.99 → Free",
+      "post_date": "2023-11-23T16:12:11+00:00",
+      "link": "https://store.epicgames.com/en-US/p/deliver-us-mars"
+    },
+    {
+      "name": "Styx: Shards of Darkness",
+      "description": "Stealth adventure game set sprawling, high-rise fantasy world",
+      "price": null,
+      "post_date": "2023-11-21T15:11:01+00:00",
+      "link": "https://www.gog.com/en/game/styx_shards_of_darkness"
+    },
+    {
+      "name": "Surviving the Aftermath",
+      "description": "Apocalyptic Survival Stimulation Game",
+      "price": "$30.99 → Free",
+      "post_date": "2023-11-16T16:10:39+00:00",
+      "link": "https://store.epicgames.com/en-US/p/surviving-the-aftermath"
+    },
+    {
+      "name": "EARTHLOCK",
+      "description": "Indie 3D RPG Classic Adventure Game Inspired by 90s",
+      "price": "$38.99 → Free",
+      "post_date": "2023-11-16T16:10:37+00:00",
+      "link": "https://store.epicgames.com/en-US/p/earthlock-e7d979"
+    },
+    {
+      "name": "Golden Light",
+      "description": "FPS Horror Prop-hunt Roguelike Game",
+      "price": "$25.99 → Free",
+      "post_date": "2023-11-09T16:11:11+00:00",
+      "link": "https://store.epicgames.com/en-US/p/golden-light-f543b3"
+    },
+    {
+      "name": "Turnip Boy Commits Tax Evasion",
+      "description": "Take down the Corrupt Vegetable Government in this Pixel Graphics Adventure Game",
+      "price": "$17.99 → Free",
+      "post_date": "2023-11-02T16:11:20+00:00",
+      "link": "https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084"
+    },
+    {
+      "name": "The Evil Within 2",
+      "description": "Third-person survival horror game",
+      "price": null,
+      "post_date": "2023-10-26T17:12:49+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-evil-within-2"
+    },
+    {
+      "name": "Tandem: a Tale of Shadows",
+      "description": null,
+      "price": null,
+      "post_date": "2023-10-26T17:12:48+00:00",
+      "link": "https://store.epicgames.com/en-US/p/tandem-a-tale-of-shadows-c3f55e"
+    },
+    {
+      "name": "Eternal Threads",
+      "description": "First Person Story Driven Puzzle Time Manipulation Game",
+      "price": "$24.99 → Free",
+      "post_date": "2023-10-19T17:01:40+00:00",
+      "link": "https://store.epicgames.com/en-US/p/eternal-threads-197169"
+    },
+    {
+      "name": "The Evil Within",
+      "description": "First Person Horror Game Directed by Resident Evil series creator",
+      "price": "$24.99 → Free",
+      "post_date": "2023-10-19T17:01:39+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-evil-within"
+    },
+    {
+      "name": "Q.U.B.E. ULTIMATE BUNDLE",
+      "description": "First Person 3D Puzzle Simulation",
+      "price": "$56.33 → Free",
+      "post_date": "2023-10-12T16:13:08+00:00",
+      "link": "https://store.epicgames.com/en-US/bundles/qube-ultimate-bundle"
+    },
+    {
+      "name": "Blazing Sails",
+      "description": "Pirate-themed PVP Battle Royale",
+      "price": "$19.99 → Free",
+      "post_date": "2023-10-12T16:13:07+00:00",
+      "link": "https://store.epicgames.com/en-US/p/blazing-sails"
+    },
+    {
+      "name": "Godlike Burger",
+      "description": "Murderous Maniac Burger Cooking Simulator",
+      "price": "$24.99 → Free",
+      "post_date": "2023-10-05T15:11:00+00:00",
+      "link": "https://store.epicgames.com/en-US/p/godlike-burger-4150a0"
+    },
+    {
+      "name": "Soulstice",
+      "description": null,
+      "price": "$45.99 → Free",
+      "post_date": "2023-09-28T15:11:15+00:00",
+      "link": "https://store.epicgames.com/en-US/p/soulstice"
+    },
+    {
+      "name": "Model Builder",
+      "description": "Building Workshop Simulator",
+      "price": "$22.99 → Free",
+      "post_date": "2023-09-28T15:11:13+00:00",
+      "link": "https://store.epicgames.com/en-US/p/model-builder-f9b456"
+    },
+    {
+      "name": "Out of Line",
+      "description": "2D Side-Scroller Platformer",
+      "price": "$8.99 → Free",
+      "post_date": "2023-09-21T15:10:49+00:00",
+      "link": "https://store.epicgames.com/en-US/p/out-of-line-209cbb"
+    },
+    {
+      "name": "The Forest Quartet",
+      "description": null,
+      "price": "$11.99 → Free",
+      "post_date": "2023-09-21T15:10:48+00:00",
+      "link": "https://store.epicgames.com/en-US/p/forest-quartet-5d03e3"
+    },
+    {
+      "name": "911 Operator",
+      "description": null,
+      "price": "$16.99 → Free",
+      "post_date": "2023-09-14T15:11:25+00:00",
+      "link": "https://store.epicgames.com/en-US/p/911-operator-585edd"
+    },
+    {
+      "name": "Requiem: Avenging Angel",
+      "description": "First-person action game of biblical proportions set in a world under siege",
+      "price": null,
+      "post_date": "2023-09-08T14:13:14+00:00",
+      "link": "https://www.gog.com/en/game/requiem_avenging_angel"
+    },
+    {
+      "name": "Spelldrifter",
+      "description": "Classic Fantasy RPG and Deck Builder",
+      "price": "$21.99 → Free",
+      "post_date": "2023-09-07T15:10:44+00:00",
+      "link": "https://store.epicgames.com/en-US/p/spelldrifter"
+    },
+    {
+      "name": "Ghost Master",
+      "description": "Strategy/puzzle game where the player is a leader of ghosts who deploys and directs them to scare mortals",
+      "price": null,
+      "post_date": "2023-09-04T14:10:30+00:00",
+      "link": "https://www.gog.com/en/game/ghost_master"
+    },
+    {
+      "name": "King's Bounty: The Legend",
+      "description": "Adventure game with tactical turn-based battles and RPG elements.",
+      "price": null,
+      "post_date": "2023-09-01T15:11:20+00:00",
+      "link": "https://www.gog.com/en/game/kings_bounty_the_legend"
+    },
+    {
+      "name": "Cave Story+",
+      "description": "Classic Pixel Platformer / Adventure",
+      "price": "$16.99 → Free",
+      "post_date": "2023-08-31T15:11:41+00:00",
+      "link": "https://store.epicgames.com/en-US/p/cave-story-plus"
+    },
+    {
+      "name": "Homeworld: Remastered Collection",
+      "description": "Classic RTS Space, Desert",
+      "price": null,
+      "post_date": "2023-08-26T05:13:28+00:00",
+      "link": "https://www.gog.com/en/game/homeworld_remastered_collection"
+    },
+    {
+      "name": "Homeworld: Deserts of Kharak",
+      "description": "Classic RTS in the desert",
+      "price": "$54.99 → Free",
+      "post_date": "2023-08-24T15:10:25+00:00",
+      "link": "https://store.epicgames.com/en-US/p/homeworld-deserts-of-kharak"
+    },
+    {
+      "name": "Dodo Peak",
+      "description": "Classic Arcade Platformer",
+      "price": "$9.99 → Free",
+      "post_date": "2023-08-17T15:10:24+00:00",
+      "link": "https://store.epicgames.com/en-US/p/dodo-peak-159276"
+    },
+    {
+      "name": "Black Book",
+      "description": null,
+      "price": "$23.99 → Free",
+      "post_date": "2023-08-17T15:10:23+00:00",
+      "link": "https://store.epicgames.com/en-US/p/black-book"
+    },
+    {
+      "name": "Orwell: Keeping an Eye on You",
+      "description": "Big Brother Simulator",
+      "price": "$15.99 → Free",
+      "post_date": "2023-08-10T16:11:00+00:00",
+      "link": "https://store.epicgames.com/en-US/p/orwell-keeping-an-eye-on-you"
+    },
+    {
+      "name": "Europa Universalis IV",
+      "description": "Classic Grand Strategy",
+      "price": "$24.99 → Free",
+      "post_date": "2023-08-10T16:10:59+00:00",
+      "link": "https://store.epicgames.com/en-US/p/europa-universalis-iv"
+    },
+    {
+      "name": "Bloons TD 6",
+      "description": "Monkeys Tower Defense",
+      "price": "$13.99 → Free",
+      "post_date": "2023-08-03T15:10:45+00:00",
+      "link": "https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0"
+    },
+    {
+      "name": "Loop Hero",
+      "description": null,
+      "price": "$15.99 → Free",
+      "post_date": "2023-08-03T15:10:44+00:00",
+      "link": "https://store.epicgames.com/en-US/p/loop-hero"
+    },
+    {
+      "name": "Field of Glory II",
+      "description": "Turn-based strategy wargame set during the Rise of Rome from 280 BC to 25 BC",
+      "price": null,
+      "post_date": "2023-06-06T07:11:01+00:00",
+      "link": "https://store.steampowered.com/app/660160/Field_of_Glory_II/"
+    },
+    {
+      "name": "Midnight Ghost Hunt",
+      "description": "Chaotic multiplayer hide-and-seek game",
+      "price": "19.99€-> Free",
+      "post_date": "2023-06-02T19:14:51+00:00",
+      "link": "https://store.epicgames.com/ru/p/midnight-ghost-hunt"
+    },
+    {
+      "name": "TGV Voyages Train Simulator",
+      "description": "Hop onboard the TGV Duplex, dabble with train gadgetry, and see the French countryside",
+      "price": "$39.99 → FREE",
+      "post_date": "2023-05-27T16:04:29+00:00",
+      "link": "https://store.steampowered.com/app/443910/TGV_Voyages_Train_Simulator/"
+    },
+    {
+      "name": "Final Liberation: Warhammer Epic 40,000 + Goodies Pack",
+      "description": null,
+      "price": "$5.99 -> Free",
+      "post_date": "2023-05-26T19:04:04+00:00",
+      "link": "https://www.gog.com/en"
+    },
+    {
+      "name": "Final Liberation: Warhammer Epic 40,000 included as a part of Warhammer Skulls 2023 - Digital Goodie Pack",
+      "description": "Turn-based strategy game with 85 unit types, over 30 scenarios, full army customisation and mission deployment",
+      "price": null,
+      "post_date": "2023-05-25T17:04:40+00:00",
+      "link": "https://www.gog.com/#giveaway"
+    },
+    {
+      "name": "Fallout New Vegas Ultimate Edition",
+      "description": "Post-apocalyptic role-playing game with all DLCs included",
+      "price": null,
+      "post_date": "2023-05-25T15:04:23+00:00",
+      "link": "https://store.epicgames.com/en-US/p/fallout-new-vegas--ultimate-edition"
+    },
+    {
+      "name": "Fiendish Freddy's Big Top O' Fun",
+      "description": "Retro collection of circus-themed mini arcade games.",
+      "price": "$6.99 → FREE",
+      "post_date": "2023-05-19T16:05:35+00:00",
+      "link": "https://www.gog.com/en/game/fiendish_freddys_big_top_o_fun"
+    },
+    {
+      "name": "Death Stranding (original 2020 edition)",
+      "description": "Open world action-adventure game. Directed and designed by Hideo Kojima",
+      "price": null,
+      "post_date": "2023-05-18T16:05:25+00:00",
+      "link": "https://store.epicgames.com/en-US/p/death-stranding"
+    },
+    {
+      "name": "Hotshot Racing",
+      "description": "Retro arcade racing game with 4-player split screen multiplayer and 8-player online multiplayer",
+      "price": "$19.99 → FREE",
+      "post_date": "2023-05-10T16:06:12+00:00",
+      "link": "https://www.fanatical.com/en/game/hotshot-racing"
+    },
+    {
+      "name": "Kao the Kangaroo",
+      "description": "Beautiful character-driven 3D platformer jam-packed with fun, exploration, adventure, and mystery",
+      "price": null,
+      "post_date": "2023-05-05T07:05:30+00:00",
+      "link": "https://store.epicgames.com/en-US/p/kao-the-kangaroo-62abe3"
+    },
+    {
+      "name": "Horizon Chase Turbo",
+      "description": "Racing game inspired by the great hits of the 80's and 90's and recreating the classic arcade gameplay with tons of content and unbounded speed limits of fun",
+      "price": null,
+      "post_date": "2023-05-05T07:05:29+00:00",
+      "link": "https://store.epicgames.com/en-US/p/horizon-chase-turbo"
+    },
+    {
+      "name": "Under The Moon",
+      "description": "Indie puzzle / hidden object adventure game with riddle solving elements",
+      "price": "$6.99 → FREE",
+      "post_date": "2023-04-30T08:04:32+00:00",
+      "link": "https://www.gog.com/en/game/under_the_moon"
+    },
+    {
+      "name": "Poker Club",
+      "description": "Poker simulator with 3-D graphics and 200-player online touraments",
+      "price": "$19.99 → FREE",
+      "post_date": "2023-04-27T17:05:27+00:00",
+      "link": "https://store.epicgames.com/en-US/p/poker-club-6e18ee"
+    },
+    {
+      "name": "Breathedge",
+      "description": "Comedic outer space survival game with crafting mechanics",
+      "price": "$24.99 → FREE",
+      "post_date": "2023-04-27T17:05:26+00:00",
+      "link": "https://store.epicgames.com/en-US/p/breathedge"
+    },
+    {
+      "name": "Never Alone (Kisima Ingitchuna)",
+      "description": "Atmospheric puzzle platformer developed in collaboration with the Iñupiat, an Alaska Native people, drawn from a traditional story that has been shared across the generations",
+      "price": null,
+      "post_date": "2023-04-20T17:05:44+00:00",
+      "link": "https://store.epicgames.com/en-US/p/never-alone-kisima-ingitchuna"
+    },
+    {
+      "name": "MORDHAU",
+      "description": "Multiplayer medieval hack and slash fighting game",
+      "price": null,
+      "post_date": "2023-04-13T15:40:18+00:00",
+      "link": "https://store.epicgames.com/en-US/p/mordhau"
+    },
+    {
+      "name": "Second Extinction",
+      "description": "Intense 3 player cooperative shooter, where your goal is to wipe out the mutated dinosaurs that have taken over the planet",
+      "price": null,
+      "post_date": "2023-04-13T15:40:17+00:00",
+      "link": "https://store.epicgames.com/en-US/p/second-extinction"
+    },
+    {
+      "name": "shapez",
+      "description": "A game about building factories to automate the creation and processing of increasingly complex shapes across an infinitely expanding map",
+      "price": null,
+      "post_date": "2023-04-06T16:04:46+00:00",
+      "link": "https://store.epicgames.com/en-US/p/shapez-0929c9"
+    },
+    {
+      "name": "Dying Light Enhanced Edition",
+      "description": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies",
+      "price": null,
+      "post_date": "2023-04-06T16:04:45+00:00",
+      "link": "https://store.epicgames.com/en-US/p/dying-light"
+    },
+    {
+      "name": "Tunche",
+      "description": "Tunche, a being of great power, has gone mad and now evil creatures are taking over the jungle. Help Rumi and her friends uncover the truth behind Tunche's actions and restore peace in the Amazon in this charming roguelike action game",
+      "price": null,
+      "post_date": "2023-03-30T16:04:37+00:00",
+      "link": "https://store.epicgames.com/en-US/p/tunche"
+    },
+    {
+      "name": "SLUDGE LIFE",
+      "description": "Explore and interact in cartoonish dirty environments through first-person view with multiple endings. Paves the way to an upcoming sequel",
+      "price": "$14.99 → FREE",
+      "post_date": "2023-03-24T18:04:32+00:00",
+      "link": "https://store.steampowered.com/app/1144770/SLUDGE_LIFE/"
+    },
+    {
+      "name": "Neurodeck: Psychological Deckbuilder",
+      "description": "Psychological-themed Indie RPG Rogue-like Deckbuilder",
+      "price": "$13.99 → FREE",
+      "post_date": "2023-03-24T17:04:44+00:00",
+      "link": "https://www.gog.com/en/game/neurodeck_psychological_deckbuilder"
+    },
+    {
+      "name": "Chess Ultra",
+      "description": "3D chess game with 4K resolution, VR support, and 10 difficulty levels",
+      "price": null,
+      "post_date": "2023-03-24T10:04:15+00:00",
+      "link": "https://store.epicgames.com/en-US/p/chess-ultra-91bba3"
+    },
+    {
+      "name": "Lorelai",
+      "description": "Engrossing psychological horror adventure with an immersive story and world in full HD",
+      "price": null,
+      "post_date": "2023-03-20T15:04:08+00:00",
+      "link": "https://www.gog.com/en/game/lorelai"
+    },
+    {
+      "name": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+      "description": "Smash skeletons, defeat dragons, and battle giant golems in this standalone campaign jam-packed with fantasy, fun, and mountains of magical loot",
+      "price": null,
+      "post_date": "2023-03-16T18:04:14+00:00",
+      "link": "https://store.steampowered.com/app/1712840/Tiny_Tinas_Assault_on_Dragon_Keep_A_Wonderlands_Oneshot_Adventure/"
+    },
+    {
+      "name": "Call of the Sea",
+      "description": "Story-driven adventure full of emotion, suspense and surreal surprises love set in the 1930s South Pacific",
+      "price": null,
+      "post_date": "2023-03-09T17:04:09+00:00",
+      "link": "https://store.epicgames.com/en-US/p/call-of-the-sea"
+    },
+    {
+      "name": "Black Desert Online - Traveler’s Edition",
+      "description": "Open-world, action MMORPG",
+      "price": null,
+      "post_date": "2023-03-02T19:04:45+00:00",
+      "link": "https://store.steampowered.com/app/582660/Black_Desert/"
+    },
+    {
+      "name": "Rise of Industry",
+      "description": null,
+      "price": null,
+      "post_date": "2023-03-02T17:04:44+00:00",
+      "link": "https://store.epicgames.com/en-US/p/rise-of-industry-0af838"
+    },
+    {
+      "name": "Duskers",
+      "description": "Pilot drones into derelict spaceships to find the means to survive and piece together how the universe became a giant graveyard",
+      "price": null,
+      "post_date": "2023-02-23T17:04:14+00:00",
+      "link": "https://store.epicgames.com/en-US/p/duskers-672fdc"
+    },
+    {
+      "name": "Warpips",
+      "description": "Tug-of-war game where you compose the best army, research the right tech and overwhelm your enemy",
+      "price": null,
+      "post_date": "2023-02-16T19:04:40+00:00",
+      "link": "https://store.epicgames.com/en-US/p/warpips-57e2c4"
+    },
+    {
+      "name": "Alien Breed Trilogy",
+      "description": "Series of top-down science fiction shoot 'em up games, heavily inspired by the Alien films",
+      "price": null,
+      "post_date": "2023-02-15T16:04:34+00:00",
+      "link": "https://www.gog.com/en/game/alien_breed_trilogy"
+    },
+    {
+      "name": "Recipe For Disaster",
+      "description": "Management sim that captures the fast-paced, drama-filled environment of a professional kitchen and dining room",
+      "price": null,
+      "post_date": "2023-02-09T17:04:37+00:00",
+      "link": "https://store.epicgames.com/en-US/p/recipe-for-disaster-83726f"
+    },
+    {
+      "name": "Dishonored: Death of the Outsider",
+      "description": "Action-adventure stealth game developed by Arkane Studios with compelling characters and exhilarating action",
+      "price": null,
+      "post_date": "2023-02-02T16:06:11+00:00",
+      "link": "https://store.epicgames.com/en-US/p/dishonored-death-of-the-outsider"
+    },
+    {
+      "name": "City of Gangsters",
+      "description": "Management tycoon game where you’ll start a criminal operation from nothing and grow it into a well-oiled money machine",
+      "price": null,
+      "post_date": "2023-02-02T16:06:10+00:00",
+      "link": "https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974"
+    },
+    {
+      "name": "Hell is Others",
+      "description": "Extraction horror multiplayer top-down shooter with roguelike elements",
+      "price": null,
+      "post_date": "2023-01-26T16:06:42+00:00",
+      "link": "https://store.epicgames.com/en-US/p/hell-is-others-789262"
+    },
+    {
+      "name": "Adios",
+      "description": "Cinematic first-person game that will draw you in with a narrative about sticking to a complicated decision that’s compelling and heartbreaking in equal measure",
+      "price": null,
+      "post_date": "2023-01-26T16:06:41+00:00",
+      "link": "https://store.epicgames.com/en-US/p/adios-b378b4"
+    },
+    {
+      "name": "Epistory - Typing Chronicles",
+      "description": "Atmospheric adventure typing game that tells the story of a writer lacking inspiration who asks her muse to help write her latest book",
+      "price": null,
+      "post_date": "2023-01-20T15:06:06+00:00",
+      "link": "https://store.epicgames.com/en-US/p/epistory-typing-chronicles-445794"
+    },
+    {
+      "name": "Rayman Raving Rabbids",
+      "description": "Party game featuring the funniest, zaniest, wackiest antics ever when hordes of nasty bunnies invade Rayman’s world and he is enslaved and forced to participate in a series of gladiator- style trials",
+      "price": null,
+      "post_date": "2023-01-19T16:07:29+00:00",
+      "link": "https://store.ubi.com/rayman-raving-rabbids/56c4948888a7e300458b47de.html"
+    },
+    {
+      "name": "Gamedec - Definitive Edition",
+      "description": "Single-player non-combat cyberpunk isometric RPG. You play as a game detective, who solves crimes inside virtual worlds",
+      "price": null,
+      "post_date": "2023-01-12T16:06:33+00:00",
+      "link": "https://store.epicgames.com/en-US/p/gamedec"
+    },
+    {
+      "name": "First Class Trouble",
+      "description": "Party game where players must work together and against each other to survive a disaster",
+      "price": null,
+      "post_date": "2023-01-12T16:06:32+00:00",
+      "link": "https://store.epicgames.com/en-US/p/first-class-trouble"
+    },
+    {
+      "name": "Shadow Tactics - Aiko’s Choice",
+      "description": "Standalone expansion to the stealth tactics game Shadow Tactics: Blades of the Shogun, set in Japan around the Edo period",
+      "price": null,
+      "post_date": "2023-01-05T17:04:27+00:00",
+      "link": "https://store.epicgames.com/en-US/p/shadow-tactics-aikos-choice-5678c1"
+    },
+    {
+      "name": "Shadow Tactics - Aiko’s Choice",
+      "description": "Standalone expansion to the stealth tactics game Shadow Tactics: Blades of the Shogun, set in Japan around the Edo period",
+      "price": null,
+      "post_date": "2023-01-05T16:06:02+00:00",
+      "link": "https://store.epicgames.com/en-US/p/shadow-tactics-aikos-choice-"
+    },
+    {
+      "name": "Kerbal Space Program",
+      "description": "Create and manage your own space program. Build spacecraft, fly them, and try to help the Kerbals fulfill their ultimate mission of conquering space",
+      "price": null,
+      "post_date": "2023-01-05T16:06:01+00:00",
+      "link": "https://store.epicgames.com/en-US/p/kerbal-space-program"
+    },
+    {
+      "name": "Daymare: 1998",
+      "description": "Third-person survival horror with hardcore survival mechanics and hard to kill enemies",
+      "price": null,
+      "post_date": "2022-12-30T15:05:04+00:00",
+      "link": "https://www.gog.com/game/daymare_1998"
+    },
+    {
+      "name": "Dishonored - Definitive Edition",
+      "description": "Immersive first-person action game that casts you as a supernatural assassin driven by revenge",
+      "price": null,
+      "post_date": "2022-12-29T16:06:03+00:00",
+      "link": "https://store.epicgames.com/en-US/p/dishonored-definitive-edition"
+    },
+    {
+      "name": "Eximius: Seize the Frontline",
+      "description": "Combines tactical First Person Shooter gameplay with high-level strategic decision-making of a Real-time Strategy game. The game features competitive 5v5 team battles where players square off in a post-apocalyptic urban environment",
+      "price": null,
+      "post_date": "2022-12-29T16:06:02+00:00",
+      "link": "https://store.epicgames.com/en-US/p/eximius-seize-the-frontline"
+    },
+    {
+      "name": "Severed Steel",
+      "description": "Stylish single-player FPS featuring a fluid stunt system, destructible voxel environments, loads of bullet time, a unique one-armed protagonist, and a dark electronic soundtrack",
+      "price": null,
+      "post_date": "2022-12-27T16:05:20+00:00",
+      "link": "https://store.epicgames.com/en-US/p/severed-steel"
+    },
+    {
+      "name": "Worms Revolution Gold Edition",
+      "description": "Classic 2D artillery turn-based tactics game",
+      "price": null,
+      "post_date": "2022-12-27T15:04:43+00:00",
+      "link": "https://www.gog.com/game/Worms_Revolution"
+    },
+    {
+      "name": "Death Stranding",
+      "description": "This is the Original edition and not the Director’s Cut",
+      "price": null,
+      "post_date": "2022-12-25T18:04:44+00:00",
+      "link": "https://store.epicgames.com/en-US/p/death-stranding"
+    },
+    {
+      "name": "Death Stranding Director’s Cut",
+      "description": null,
+      "price": null,
+      "post_date": "2022-12-25T16:05:17+00:00",
+      "link": "https://store.epicgames.com/en-US/p/death-stranding-directors-cut"
+    },
+    {
+      "name": "Metro: Last Light Redux",
+      "description": "Post-apocalyptic, first-person shooter with stealth and survival horror elements",
+      "price": null,
+      "post_date": "2022-12-24T16:05:39+00:00",
+      "link": "https://store.epicgames.com/en-US/p/metro-last-light-redux"
+    },
+    {
+      "name": "Encased",
+      "description": "Tactical sci-fi RPG set in an alt-1970’s",
+      "price": null,
+      "post_date": "2022-12-23T16:09:44+00:00",
+      "link": "https://store.epicgames.com/en-US/p/encased"
+    },
+    {
+      "name": "Greak: Memories of Azur",
+      "description": "Side scrolling single-player game with hand-drawn animations",
+      "price": null,
+      "post_date": "2022-12-23T15:09:50+00:00",
+      "link": "https://www.gog.com/game/greak_memories_of_azur"
+    },
+    {
+      "name": "Fallout, Fallout 2 & Fallout Tactics: Brotherhood of Steel",
+      "description": "Classic post-apocalyptic role-playing games",
+      "price": null,
+      "post_date": "2022-12-22T17:09:53+00:00",
+      "link": "https://store.epicgames.com/en-US/free-games"
+    },
+    {
+      "name": "LEGO Builder's Journey",
+      "description": "Atmospheric, free-form geometric puzzle game that asks us to sometimes follow the instructions and sometimes to break the rules",
+      "price": null,
+      "post_date": "2022-12-21T17:13:57+00:00",
+      "link": "https://store.epicgames.com/en-US/p/lego-builders-journey"
+    },
+    {
+      "name": "Wolfenstein: The New Order",
+      "description": "Over-the-top shooter with fun action, memorable set-piece moments, and decent characters",
+      "price": null,
+      "post_date": "2022-12-20T17:09:32+00:00",
+      "link": "https://store.epicgames.com/en-US/p/wolfenstein-the-new-order"
+    },
+    {
+      "name": "Costume Quest 2",
+      "description": "Explore spooky time-traversing landscapes, don adorable new costumes that transform into powerful Hallo-warriors, and collect even Creepier Treat Cards to wield in combat against a legion of hygiene obsessed baddies",
+      "price": null,
+      "post_date": "2022-12-17T17:10:34+00:00",
+      "link": "https://store.epicgames.com/en-US/p/costume-quest-2"
+    },
+    {
+      "name": "King of Seas",
+      "description": "Action-RPG game set in a deadly procedurally generated pirate world",
+      "price": null,
+      "post_date": "2022-12-16T19:13:05+00:00",
+      "link": "https://www.gog.com/en/game/king_of_seas"
+    },
+    {
+      "name": "Octopath Traveler",
+      "description": "Open-world JRPG with amazing \"HD-2D\" graphics/2.5D pixel art",
+      "price": null,
+      "post_date": "2022-12-16T11:12:04+00:00",
+      "link": "https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/"
+    },
+    {
+      "name": "Bloons TD 6",
+      "description": "Craft your perfect defense from a combination of awesome Monkey Towers, upgrades, Heroes, and activated abilities, then pop every last invading Bloon!",
+      "price": null,
+      "post_date": "2022-12-15T18:20:15+00:00",
+      "link": "https://store.epicgames.com/p/bloons-td-6-bf95a0"
+    },
+    {
+      "name": "Ghost of a Tale",
+      "description": "Action-RPG game in which you play as Tilo, a mouse and minstrel caught up in a perilous adventure. The game takes place in a medieval world populated only by animals, and puts an emphasis on immersion and exploration",
+      "price": null,
+      "post_date": "2022-12-12T15:09:18+00:00",
+      "link": "https://www.gog.com/en/game/ghost_of_a_tale"
+    },
+    {
+      "name": "Wildcat Gun Machine",
+      "description": "Bullet hell dungeon crawler with 40 guns, giant mech robots, cute kittens, combat puzzles, skill upgrades, and an interesting 2D art style",
+      "price": null,
+      "post_date": "2022-12-08T17:09:23+00:00",
+      "link": "https://store.epicgames.com/en-US/p/wildcat-gun-machine-c66c4e"
+    },
+    {
+      "name": "Saints Row IV Re-Elected",
+      "description": "Open world crime sim that continues the story of the Third Street Saints by elevating their status to the highest level - the leaders of the free world. Includes all DLCs",
+      "price": null,
+      "post_date": "2022-12-08T16:15:15+00:00",
+      "link": "https://store.epicgames.com/en-US/p/saints-row-iv-re-elected"
+    },
+    {
+      "name": "RPG in a Box",
+      "description": "Accessible game creation tool for making games and other interactive experiences in a fun and simple way",
+      "price": null,
+      "post_date": "2022-12-01T16:16:25+00:00",
+      "link": "https://store.epicgames.com/en-US/p/rpg-in-a-box"
+    },
+    {
+      "name": "Garfield Kart - Furious Racing",
+      "description": null,
+      "price": "$14.99 -> Free",
+      "post_date": "2022-11-26T11:09:22+00:00",
+      "link": "https://www.fanatical.com/en/game/garfield-kart-furious-racing"
+    },
+    {
+      "name": "STAR WARS ™ : Squadrons",
+      "description": "First-person space dogfighting game with single-player story and cross-platform multiplayer",
+      "price": null,
+      "post_date": "2022-11-24T17:09:39+00:00",
+      "link": "https://store.epicgames.com/en-US/p/star-wars-squadrons"
+    },
+    {
+      "name": "Narita Boy",
+      "description": "Retro-pixel 2D platformer with Metroidvania elements",
+      "price": null,
+      "post_date": "2022-11-23T15:09:34+00:00",
+      "link": "https://www.gog.com/game/narita_boy"
+    },
+    {
+      "name": "Evil Dead: The Game",
+      "description": "Asymmetric horror game with over-the-top co-op and PVP multiplayer action inspired by the original Evil Dead films",
+      "price": null,
+      "post_date": "2022-11-17T17:09:19+00:00",
+      "link": "https://store.epicgames.com/en-US/p/evil-dead-the-game"
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell",
+      "description": "Classic singleplayer third-person stealth action game",
+      "price": null,
+      "post_date": "2022-11-17T17:09:18+00:00",
+      "link": "https://store.ubi.com/tom-clancys-splinter-cell/56c4948a88a7e300458b481c.html"
+    },
+    {
+      "name": "Dark Deity",
+      "description": "Tactical role-playing game inspired by the Fire Emblem series",
+      "price": null,
+      "post_date": "2022-11-17T17:09:17+00:00",
+      "link": "https://store.epicgames.com/en-US/p/dark-deity-0b08d1"
+    },
+    {
+      "name": "Shadow Tactics: Blades of the Shogun",
+      "description": "Hardcore tactical stealth game set in Japan around the Edo period",
+      "price": null,
+      "post_date": "2022-11-10T17:09:07+00:00",
+      "link": "https://store.epicgames.com/en-US/p/shadow-tactics"
+    },
+    {
+      "name": "Alba - A Wildlife Adventure",
+      "description": "Open world adventure game from the creators of Monument Valley",
+      "price": null,
+      "post_date": "2022-11-10T17:09:06+00:00",
+      "link": "https://store.epicgames.com/en-US/p/alba-a-wildlife-adventure-93736a"
+    },
+    {
+      "name": "Warhammer: Vermintide 2",
+      "description": "4-player co-op action game set in the Warhammer Fantasy Battles world",
+      "price": null,
+      "post_date": "2022-11-03T18:09:43+00:00",
+      "link": "https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/"
+    },
+    {
+      "name": "Rising Storm 2: Vietnam",
+      "description": "Multiplayer game with 64-player MP matches, 20+ maps and 50+ weapons",
+      "price": null,
+      "post_date": "2022-11-03T15:09:22+00:00",
+      "link": "https://store.epicgames.com/en-US/p/rising-storm-2-vietnam"
+    },
+    {
+      "name": "Filament",
+      "description": "Single-player game with over 300 challenging and varied puzzles",
+      "price": null,
+      "post_date": "2022-11-03T15:09:21+00:00",
+      "link": "https://store.epicgames.com/en-US/p/filament-332a92"
+    },
+    {
+      "name": "Jazz Jackrabbit 2 Collection",
+      "description": "Classic 2D platformimg games",
+      "price": null,
+      "post_date": "2022-10-31T15:09:41+00:00",
+      "link": "https://www.gog.com/en/game/jazz_jackrabbit_2_collection"
+    },
+    {
+      "name": "Warhammer 40,000: Mechanicus",
+      "description": "Take control of the Adeptus Mechanicus in over 50 hand-crafted missions in this turn-based tactical game with deep customization capabilities and an engaging narrative",
+      "price": null,
+      "post_date": "2022-10-27T15:09:22+00:00",
+      "link": "https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71"
+    },
+    {
+      "name": "Genesis Alpha One Deluxe Edition",
+      "description": "A mix of roguelike shooter, base building and survival that puts you in the role of an interstellar pioneer in huge, randomised galaxies",
+      "price": null,
+      "post_date": "2022-10-27T14:09:16+00:00",
+      "link": "https://www.gog.com/en/game/genesis_alpha_one_deluxe_edition"
+    },
+    {
+      "name": "Evoland Legendary Edition",
+      "description": null,
+      "price": null,
+      "post_date": "2022-10-20T16:11:37+00:00",
+      "link": "https://store.epicgames.com/en-US/p/evoland-legendary-edition-5753ec"
+    },
+    {
+      "name": "Darkwood",
+      "description": "Top-down survival horror game with no hand holding or quest markers. Scavenge and explore a rich, ever-changing free-roam world by day, then hunker down in your hideout and pray for the morning light",
+      "price": null,
+      "post_date": "2022-10-13T16:10:30+00:00",
+      "link": "https://store.epicgames.com/en-US/p/darkwood-fa73bd"
+    },
+    {
+      "name": "Slain: Back From Hell",
+      "description": "Heavy metal inspired arcade combat with puzzle elements and gore galore",
+      "price": null,
+      "post_date": "2022-10-06T20:09:15+00:00",
+      "link": "https://store.epicgames.com/en-US/p/slain-aea303"
+    },
+    {
+      "name": "Rising Hell",
+      "description": "Vertical platformer rogue-lite filled with adrenaline-pumping action and tons of heavy gothic metal shreds",
+      "price": null,
+      "post_date": "2022-10-06T20:09:13+00:00",
+      "link": "https://store.epicgames.com/en-US/p/rising-hell-253707"
+    },
+    {
+      "name": "NFS Heat",
+      "description": "100% off on one of the dlc’s, offer ends on 11th october",
+      "price": null,
+      "post_date": "2022-10-03T09:09:44+00:00",
+      "link": "https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/"
+    },
+    {
+      "name": "Runbow",
+      "description": "Runbow is the party platformer you've been waiting for! With tons of characters, costumes, and crazy game modes, Runbow is full of colourful chaos that you just have to experience for yourself.",
+      "price": "$14.99 -> Free",
+      "post_date": "2022-09-29T17:09:06+00:00",
+      "link": "https://store.epicgames.com/en-US/p/runbow-fc9fa4"
+    },
+    {
+      "name": "Master of Magic Classic",
+      "description": "Civ-type turn-based strategy game set in a heroic fantasy setting",
+      "price": null,
+      "post_date": "2022-09-29T15:09:03+00:00",
+      "link": "https://www.gog.com/en/game/master_of_magic_classic"
+    },
+    {
+      "name": "ARK: Survival Evolved",
+      "description": "Open world action-adventure survival MMO game with dinosaurs and crafting",
+      "price": "$19.99-> Free",
+      "post_date": "2022-09-22T16:10:17+00:00",
+      "link": "https://store.epicgames.com/en-US/p/ark"
+    },
+    {
+      "name": "Gloomhaven",
+      "description": "Tactical-RPG and dungeon-crawling board game adaptation with 160 exclusive digital missions and online co-op",
+      "price": null,
+      "post_date": "2022-09-22T16:10:15+00:00",
+      "link": "https://store.epicgames.com/en-US/p/gloomhaven-92f741"
+    },
+    {
+      "name": "Spirit of the North",
+      "description": "Single-player 3rd-person adventure game inspired by the breathtaking and mysterious landscapes of Iceland",
+      "price": null,
+      "post_date": "2022-09-15T16:10:01+00:00",
+      "link": "https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66"
+    }
+  ]
+}
