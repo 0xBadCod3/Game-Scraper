@@ -2,7 +2,7 @@ import json
 import unicodedata
 import re
 from datetime import datetime
-from scraper_tg import scrape_with_pagination, load_existing_games, merge_and_sort_games
+from scraper_tg import scrape_with_pagination
 from scraper_gp_api import fetch_gamerpower_games
 from scraper_gp_web import scrape_gamerpower
 
@@ -114,14 +114,12 @@ def main():
     print("="*60)
     
     print("\n[1/3] Running scraper3 (GamerPower Web)...")
-    scraper3_games, scraper3_platforms = scrape_gamerpower(num_pages=100, max_workers=3)
+    scraper3_games, scraper3_platforms = scrape_gamerpower(num_pages=2, max_workers=3)
     if scraper3_games is None:
         scraper3_games = []
     
     print("\n[2/3] Running scraper1 (Telegram)...")
-    scraper1_existing = load_existing_games('games.tg.json')
-    scraper1_new = scrape_with_pagination("https://t.me/s/freegames", num_pages=100, existing_games=scraper1_existing)
-    scraper1_games = merge_and_sort_games(scraper1_new, scraper1_existing) if scraper1_new else scraper1_existing
+    scraper1_games = scrape_with_pagination("https://t.me/s/freegames", num_pages=10)
     
     print("\n[3/3] Running scraper2 (GamerPower API)...")
     scraper2_games = fetch_gamerpower_games()

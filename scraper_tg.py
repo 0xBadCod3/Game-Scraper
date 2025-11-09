@@ -5,7 +5,6 @@ from curl_cffi import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import html
-import os
 
 def fetch_telegram_page(url):
     """Fetch the Telegram page using curl_cffi"""
@@ -47,6 +46,22 @@ def parse_game_info(text):
     
     return {'name': game_name, 'description': description, 'price': price}
 
+def get_platform(link):
+    """Determine platform from link"""
+    if not link:
+        return None
+    
+    link_lower = link.lower()
+    if 'steam' in link_lower:
+        return 'steam'
+    elif 'epicgames' in link_lower:
+        return 'epic-games-store'
+    elif 'gog' in link_lower:
+        return 'gog'
+    elif 'ubisoft' in link_lower:
+        return 'ubisoft'
+    return None
+
 def extract_games(soup):
     """Extract game information from parsed HTML"""
     games = []
@@ -71,27 +86,22 @@ def extract_games(soup):
             None
         )
         
+        # Determine platform
+        game_info['platform'] = get_platform(game_info['link'])
+        
+        # Filter: only keep if platform is valid
+        if not game_info['platform']:
+            print(f"Skipped (no valid platform): {game_info['name']}")
+            continue
+        
         games.append(game_info)
-        print(f"Found: {game_info['name']}")
+        print(f"Found: {game_info['name']} [{game_info['platform']}]")
     
     return games
 
-def load_existing_games(filename='games.tg.json'):
-    """Load existing games from JSON file"""
-    if not os.path.exists(filename):
-        return []
-    
-    try:
-        with open(filename, 'r', encoding='utf-8') as f:
-            return json.load(f).get('games', [])
-    except (json.JSONDecodeError, IOError) as e:
-        print(f"Error loading existing file: {e}")
-        return []
-
-def scrape_with_pagination(base_url, num_pages=5, existing_games=None):
-    """Scrape multiple pages, stop at already seen games"""
+def scrape_with_pagination(base_url, num_pages=5):
+    """Scrape multiple pages"""
     all_games = []
-    existing_ids = {(g['name'], g['link']) for g in existing_games or [] if g.get('name') and g.get('link')}
     url = base_url
     
     for page_num in range(num_pages):
@@ -103,13 +113,7 @@ def scrape_with_pagination(base_url, num_pages=5, existing_games=None):
         
         soup = BeautifulSoup(html_content, 'html.parser')
         games = extract_games(soup)
-        
-        # Check if we've reached already scraped games
-        for game in games:
-            if (game['name'], game['link']) in existing_ids:
-                print(f"Already have: {game['name']} - stopping pagination")
-                return all_games
-            all_games.append(game)
+        all_games.extend(games)
         
         # Get oldest message ID for pagination
         messages = soup.find_all('div', class_='tgme_widget_message', attrs={'data-post': True})
@@ -122,22 +126,11 @@ def scrape_with_pagination(base_url, num_pages=5, existing_games=None):
     
     return all_games
 
-def merge_and_sort_games(new_games, existing_games):
-    """Merge new games with existing ones and sort by date"""
-    all_games_dict = {(g.get('name'), g.get('link')): g for g in existing_games}
-    
-    for game in new_games:
-        game_id = (game.get('name'), game.get('link'))
-        if game_id not in all_games_dict:
-            all_games_dict[game_id] = game
-    
-    unique_games = list(all_games_dict.values())
-    unique_games.sort(key=lambda x: x.get('post_date') or '', reverse=True)
-    
-    return unique_games
-
 def save_to_json(games, filename='games.tg.json'):
     """Save games to JSON file"""
+    # Sort by date
+    games.sort(key=lambda x: x.get('post_date') or '', reverse=True)
+    
     data = {
         'last_updated': datetime.now().isoformat(),
         'total_games': len(games),
@@ -147,24 +140,14 @@ def save_to_json(games, filename='games.tg.json'):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     
-    print(f"\nSaved {len(games)} total games to {filename}")
+    print(f"\nSaved {len(games)} games to {filename}")
 
 def main():
-    filename = 'games.tg.json'
+    print("Starting scrape...")
+    games = scrape_with_pagination("https://t.me/s/freegames", num_pages=20)
     
-    print("Loading existing games...")
-    existing_games = load_existing_games(filename)
-    print(f"Found {len(existing_games)} existing games")
-    
-    print("\nStarting scrape...")
-    new_games = scrape_with_pagination("https://t.me/s/freegames", num_pages=5, existing_games=existing_games)
-    
-    if new_games:
-        print(f"\nFound {len(new_games)} new games")
-        all_games = merge_and_sort_games(new_games, existing_games)
-        save_to_json(all_games, filename)
-    elif existing_games:
-        print("\nNo new games found, keeping existing data")
+    if games:
+        save_to_json(games, 'games.tg.json')
     else:
         print("\nNo games found")
 
