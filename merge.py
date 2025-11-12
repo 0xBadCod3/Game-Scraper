@@ -134,10 +134,11 @@ def main():
     except:
         existing_merged = []
     
-    merged = scraper3_games
-    merged = merge_ordered_games(merged, scraper1_games, "scraper1")
-    merged = merge_ordered_games(merged, scraper2_games, "scraper2")
-    
+    merged = existing_merged
+    merged = merge_ordered_games(merged, scraper3_games, "gp_web")
+    merged = merge_ordered_games(merged, scraper1_games, "tg")
+    merged = merge_ordered_games(merged, scraper2_games, "gp_api")
+
     if len(merged) > len(existing_merged):
         save_merged_json(merged, 'games.json')
         print("\n✓ Merge complete!")
