@@ -1,12 +1,37 @@
 {
-  "last_updated": "2025-11-12T20:42:06.030520",
-  "total_games": 98,
+  "last_updated": "2025-11-14T00:50:32.115938",
+  "total_games": 102,
   "platforms": [
     "epic-games-store",
     "gog",
-    "steam"
+    "steam",
+    "ubisoft"
   ],
   "games": [
+    {
+      "name": "Zero Hour",
+      "description": "Serious Slow-Paced Tactical Shooter Based In Bangladesh",
+      "price": "$9.99 → Free",
+      "post_date": "2025-11-13T17:10:13+00:00",
+      "link": "https://store.epicgames.com/en-US/p/zero-hour-8449a0",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Songs of Silence",
+      "description": "Turn-based Strategy Meets Real-time Battles, Every Decision Shapes your Kingdom's Fate!",
+      "price": "$29.99 → Free",
+      "post_date": "2025-11-13T17:10:13+00:00",
+      "link": "https://store.epicgames.com/en-US/p/songs-of-silence-778d86",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "ScourgeBringer",
+      "description": "Looking for a Dead Cells-meets-Celeste type of game? Grab ScourgeBringer for free on Epic Games Store. ScourgeBringer is a cool 2d fast-paced rogue-lite platformer from the developers of NeuroVoider.\r\n\r\n*EDIT: ScourgeBringer (Mobile version) is also available via Epic Games Store App for iPhone, iPad, and Android.",
+      "price": "$16.99 → Free",
+      "post_date": "2025-11-13 11:03:05",
+      "link": "https://store.epicgames.com/en-US/p/scourgebringer",
+      "platform": "epic-games-store"
+    },
     {
       "name": "12 is Better Than 6",
       "description": "12 is Better Than 6 is free on Steam until November 13! 12 is Better Than 6 is a dynamic top-down shooter with stealth elements. Check it out!",
@@ -62,6 +87,14 @@
       "post_date": null,
       "link": "https://www.gog.com/en/game/stasis",
       "platform": "gog"
+    },
+    {
+      "name": "Immortals Fenyx Rising",
+      "description": null,
+      "price": null,
+      "post_date": "2025-11-13T17:10:14+00:00",
+      "link": "https://register.ubisoft.com/ImmortalsFenyxRising_Free/en-US",
+      "platform": "ubisoft"
     },
     {
       "name": "Five Nights at Freddy's: Into the Pit",
