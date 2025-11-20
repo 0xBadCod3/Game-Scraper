@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-14T00:50:32.115938",
-  "total_games": 102,
+  "last_updated": "2025-11-20T00:48:25.910503",
+  "total_games": 103,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -8,6 +8,14 @@
     "ubisoft"
   ],
   "games": [
+    {
+      "name": "Wednesdays",
+      "description": "It’s the 36th anniversary of the UN’s International Convention on the Rights of the Child, and to celebrate, the developers of Wednesdays are giving the game away for free on Steam.",
+      "price": "$9.99 → Free",
+      "post_date": "2025-11-19 16:12:06",
+      "link": "https://store.steampowered.com/app/2747770/Wednesdays/",
+      "platform": "steam"
+    },
     {
       "name": "Zero Hour",
       "description": "Serious Slow-Paced Tactical Shooter Based In Bangladesh",
