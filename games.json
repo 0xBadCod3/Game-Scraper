@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-20T00:48:25.910503",
-  "total_games": 103,
+  "last_updated": "2025-11-21T00:48:43.569787",
+  "total_games": 105,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -8,6 +8,22 @@
     "ubisoft"
   ],
   "games": [
+    {
+      "name": "Zoeti",
+      "description": "Zoeti is free this week on Epic Games Store! Zoeti is a turn-based roguelite that uses a deck of playing cards, where you play card combinations to activate skills. Check it out!",
+      "price": "$19.99 → Free",
+      "post_date": "2025-11-20 11:01:42",
+      "link": "https://store.epicgames.com/en-US/p/zoeti-3ccef9",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Godzilla Voxel Wars",
+      "description": "Are you a Godzilla fan? Then you can’t miss this giveaway! Epic Games Store is giving away free copies of Godzilla Voxel Wars, a fun turn-based strategy game featuring popular Toho monsters.",
+      "price": "$14.99 → Free",
+      "post_date": "2025-11-20 11:00:26",
+      "link": "https://store.epicgames.com/en-US/p/godzillawars-2c30e4",
+      "platform": "epic-games-store"
+    },
     {
       "name": "Wednesdays",
       "description": "It’s the 36th anniversary of the UN’s International Convention on the Rights of the Child, and to celebrate, the developers of Wednesdays are giving the game away for free on Steam.",
