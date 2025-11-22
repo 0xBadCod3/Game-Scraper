@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-21T00:48:43.569787",
-  "total_games": 105,
+  "last_updated": "2025-11-22T00:46:45.853522",
+  "total_games": 106,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -8,6 +8,14 @@
     "ubisoft"
   ],
   "games": [
+    {
+      "name": "Warhammer: Vermintide 2",
+      "description": "Brutal and immersive first-person co-op action experience set in the war-torn fantasy world of Warhammer, featuring intense battles, teamwork, and thrilling adventures.",
+      "price": "$29.99 → Free",
+      "post_date": "2025-11-21T19:10:49+00:00",
+      "link": "https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/",
+      "platform": "steam"
+    },
     {
       "name": "Zoeti",
       "description": "Zoeti is free this week on Epic Games Store! Zoeti is a turn-based roguelite that uses a deck of playing cards, where you play card combinations to activate skills. Check it out!",
