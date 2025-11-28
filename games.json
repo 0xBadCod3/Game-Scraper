@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-26T00:50:19.183470",
-  "total_games": 107,
+  "last_updated": "2025-11-28T00:47:43.466976",
+  "total_games": 108,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -8,6 +8,14 @@
     "ubisoft"
   ],
   "games": [
+    {
+      "name": "Universe For Sale",
+      "description": "Explore Jupiter today! Universe For Sale is free this week on Epic Games Store. Universe for Sale is a cool 2D sci-fi hand-drawn adventure game set in Jupiter.\r\n\r\n*EDIT: Universe For Sale (Mobile version) is also available via Epic Games Store App for iPhone, iPad, and Android.",
+      "price": "$14.99 → Free",
+      "post_date": "2025-11-27 11:00:29",
+      "link": "https://store.epicgames.com/en-US/p/universe-for-sale-05c53e",
+      "platform": "epic-games-store"
+    },
     {
       "name": "Warhammer: Vermintide 2",
       "description": "Brutal and immersive first-person co-op action experience set in the war-torn fantasy world of Warhammer, featuring intense battles, teamwork, and thrilling adventures.",
