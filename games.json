@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-05T00:51:59.933618",
-  "total_games": 110,
+  "last_updated": "2025-12-13T00:49:30.833737",
+  "total_games": 112,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -601,10 +601,26 @@
       "platform": "steam"
     },
     {
+      "name": "Just Ignore Them",
+      "description": "Just Ignore Them is free on Steam until Dec 15! It’s an indie point-and-click adventure game! Check it out!",
+      "price": "$3.99 → Free",
+      "post_date": "2025-12-12 13:11:01",
+      "link": "https://store.steampowered.com/app/561770/Just_Ignore_Them/",
+      "platform": "steam"
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "description": "An immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world",
+      "price": "$59.99 → Free",
+      "post_date": "2025-12-12T03:10:16+00:00",
+      "link": "https://store.epicgames.com/en-US/p/hogwarts-legacy",
+      "platform": "epic-games-store"
+    },
+    {
       "name": "Black Desert",
-      "description": null,
+      "description": "New opportunity! Grab Black Desert Online for free on Steam! Black Desert Online is a popular open-world action MMORPG with impressive graphics. Don't miss it!",
       "price": "$9.99 → Free",
-      "post_date": null,
+      "post_date": "2025-12-11 13:17:40",
       "link": "https://store.steampowered.com/app/582660/Black_Desert/",
       "platform": "steam"
     },
