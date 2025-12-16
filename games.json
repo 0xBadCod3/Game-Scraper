@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-13T00:49:30.833737",
-  "total_games": 112,
+  "last_updated": "2025-12-16T00:53:32.839824",
+  "total_games": 113,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "One Gun Guy",
+      "description": "Giveaway alert! One Gun Guy is free on Steam until December 18! One Gun Guy is a indie 2D action platformer with player upgrades and pixel graphics. Grab it now before it’s too late.",
+      "price": "$4.99 → Free",
+      "post_date": "2025-12-15 13:51:27",
+      "link": "https://store.steampowered.com/app/1200580/One_Gun_Guy/",
       "platform": "steam"
     },
     {
