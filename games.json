@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-16T00:53:32.839824",
-  "total_games": 113,
+  "last_updated": "2025-12-17T00:48:23.289104",
+  "total_games": 114,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Wild Terra 2: New Lands",
+      "description": "This giveaway is for all MMORPG fans out there! To celebrate the latest update, Juvty Worlds is giving away Wild Terra 2: New Lands for free on Steam! If you’re into medieval worlds, this one’s worth checking out. Wild Terra 2 throws you into a living sandbox filled with pets, raids, crafting, and plenty of danger. Grab it while it’s free and jump into the adventure!",
+      "price": "$39.99 → Free",
+      "post_date": "2025-12-16 13:01:32",
+      "link": "https://store.steampowered.com/app/1134700/Wild_Terra_2_New_Lands/",
       "platform": "steam"
     },
     {
