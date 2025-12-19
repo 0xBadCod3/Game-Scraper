@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-17T00:48:23.289104",
-  "total_games": 114,
+  "last_updated": "2025-12-19T00:53:11.457841",
+  "total_games": 118,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,38 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "100% Orange Juice",
+      "description": "Score 100% Orange Juice for free on Steam and keep it forever in your Steam library! 100% Orange Juice is a digital multiplayer board game with Dice, cards, stars, battles and pudding!",
+      "price": "$6.99 → Free",
+      "post_date": "2025-12-18 13:45:05",
+      "link": "https://store.steampowered.com/app/282800/100_Orange_Juice/",
+      "platform": "steam"
+    },
+    {
+      "name": "Toy Tinker Simulator",
+      "description": "Become a Toy Tinker today! Get Toy Tinker Simulator for free on Steam. Toy Tinker Simulator is a first-person simulation game where you repair toys and build your own toy museum!",
+      "price": "$12.99 → Free",
+      "post_date": "2025-12-18 13:18:40",
+      "link": "https://store.steampowered.com/app/1510580/Toy_Tinker_Simulator/",
+      "platform": "steam"
+    },
+    {
+      "name": "Rat Quest",
+      "description": "Grab Rat Quest for free on Steam and keep it forever in your Steam library! Rat Quest is a 2d game about a rat platforming up the level to get cheese. Check it out!",
+      "price": "$4.99 → Free",
+      "post_date": "2025-12-18 13:14:30",
+      "link": "https://store.steampowered.com/app/2952470/Rat_Quest/",
+      "platform": "steam"
+    },
+    {
+      "name": "Jotunnslayer: Hordes of Hel",
+      "description": "Gripping roguelike horde-survivor game set in the dark realms of Norse Mythology. #1 of Epic Store’s year-end daily giveaways - 21 hours left to claim.",
+      "price": "$14.99 → Free",
+      "post_date": "2025-12-18T19:10:43+00:00",
+      "link": "https://store.epicgames.com/en-US/p/jotunnslayer-hordes-of-hel-3579b3",
+      "platform": "epic-games-store"
     },
     {
       "name": "Wild Terra 2: New Lands",
