@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-19T00:53:11.457841",
-  "total_games": 118,
+  "last_updated": "2025-12-20T00:49:31.025596",
+  "total_games": 120,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Banana Hell: Mountain of Madness",
+      "description": "Who doesn’t like bananas? Download Banana Hell: Mountain of Madness for free on Steam! It’s a casual 2D platformer packed with weirdness and way too many banana monologues.",
+      "price": "$0.99 → Free",
+      "post_date": "2025-12-19 15:13:56",
+      "link": "https://store.steampowered.com/app/2068520/Banana_Hell_Mountain_of_Madness/",
+      "platform": "steam"
+    },
+    {
+      "name": "Eternights",
+      "description": "A dating anime action game where you try to make the most out of life during the apocalypse",
+      "price": "$29.99 → Free",
+      "post_date": "2025-12-19T17:10:18+00:00",
+      "link": "https://store.epicgames.com/en-US/p/eternights-c2fbca",
+      "platform": "epic-games-store"
     },
     {
       "name": "100% Orange Juice",
