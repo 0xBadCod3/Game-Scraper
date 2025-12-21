@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-20T00:49:31.025596",
-  "total_games": 120,
+  "last_updated": "2025-12-21T00:57:13.346694",
+  "total_games": 122,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Undercroft warriors",
+      "description": "Grab Undercroft Warriors for free on Steam! Undercroft Warriors is 2d action-packed, arcade-inspired twin-stick shooter!",
+      "price": "$2.99 → Free",
+      "post_date": "2025-12-20 13:07:22",
+      "link": "https://store.steampowered.com/app/2547140/Undercroft_warriors/",
+      "platform": "steam"
+    },
+    {
+      "name": "Blood West",
+      "description": "An immersive stealth FPS where weird west legends meet eldritch horror in BLOOD WEST",
+      "price": "$24.99 → Free",
+      "post_date": "2025-12-20T17:10:31+00:00",
+      "link": "https://store.epicgames.com/en-US/p/blood-west-8f6ffd",
+      "platform": "epic-games-store"
     },
     {
       "name": "Banana Hell: Mountain of Madness",
