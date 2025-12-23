@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-22T00:56:20.914061",
-  "total_games": 124,
+  "last_updated": "2025-12-23T00:53:28.824653",
+  "total_games": 125,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,14 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Paradise Killer",
+      "description": "Investigate and interrogate in this open world adventure",
+      "price": "$19.99 → Free",
+      "post_date": "2025-12-22T17:10:35+00:00",
+      "link": "https://store.epicgames.com/en-US/p/paradise-killer-c3ea1c",
+      "platform": "epic-games-store"
     },
     {
       "name": "The Deed: Dynasty",
