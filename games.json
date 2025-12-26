@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-25T00:53:03.270955",
-  "total_games": 127,
+  "last_updated": "2025-12-26T00:53:16.846805",
+  "total_games": 129,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Caveman World: Mountains of Unga Boonga",
+      "description": "Score Caveman World: Mountains of Unga Boonga for free via Steam! Caveman World: Mountains of Unga Boonga is a indie retro inspired platformer game set in prehistoric time.",
+      "price": "$1.99 → Free",
+      "post_date": "2025-12-25 13:48:49",
+      "link": "https://store.steampowered.com/app/462960/Caveman_World_Mountains_of_Unga_Boonga/",
+      "platform": "steam"
+    },
+    {
+      "name": "Disco Elysium - The Final Cut",
+      "description": "Claim the Disco Elysium - The Final Cut for free via Epic Games Store! Disco Elysium - The Final Cut is a groundbreaking role playing game with a unique skill system. Don´t miss this amazing game!",
+      "price": "$39.99 → Free",
+      "post_date": "2025-12-25 11:04:52",
+      "link": "https://store.epicgames.com/en-US/p/disco-elysium",
+      "platform": "epic-games-store"
     },
     {
       "name": "The Callisto Protocol",
