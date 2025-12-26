@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-26T00:53:16.846805",
-  "total_games": 129,
+  "last_updated": "2025-12-26T18:27:26.586989",
+  "total_games": 130,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,14 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "We Were Here Together",
+      "description": "Embark on a puzzle solving adventure in which you and a partner must prove you can communicate and work together to escape Castle Rock",
+      "price": "$11.99 → Free",
+      "post_date": "2025-12-26T17:10:12+00:00",
+      "link": "https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66",
+      "platform": "epic-games-store"
     },
     {
       "name": "Caveman World: Mountains of Unga Boonga",
