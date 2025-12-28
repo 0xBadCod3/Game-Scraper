@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-27T18:26:00.987202",
-  "total_games": 131,
+  "last_updated": "2025-12-28T18:26:39.903479",
+  "total_games": 132,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,14 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "SKALD Against the Black Priory",
+      "description": "Get SKALD: Against the Black Priory for free via Epic Games Store! SKALD is a retro-style party-based RPG set in a grim-dark fantasy world. Check it out.",
+      "price": "$14.99 → Free",
+      "post_date": "2025-12-28 11:01:53",
+      "link": "https://store.epicgames.com/en-US/p/skald-against-the-black-priory-cffcc0",
+      "platform": "epic-games-store"
     },
     {
       "name": "Cassette Beasts",
