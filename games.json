@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-31T18:27:39.487084",
-  "total_games": 135,
+  "last_updated": "2026-01-01T18:27:47.851844",
+  "total_games": 137,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Total War: THREE KINGDOMS",
+      "description": "Forge a new empire as one of 12 legendary Warlords drawn from China’s celebrated historical epic, the Romance of the Three Kingdoms",
+      "price": "$59.99 → Free",
+      "post_date": "2026-01-01T17:10:29+00:00",
+      "link": "https://store.epicgames.com/en-US/p/total-war-three-kingdoms-d3bb7a",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Wildgate",
+      "description": "PvPvE multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action",
+      "price": "$29.99 → Free",
+      "post_date": "2026-01-01T17:10:31+00:00",
+      "link": "https://store.epicgames.com/en-US/p/wildgate-standard-edition-b886b5",
+      "platform": "epic-games-store"
     },
     {
       "name": "Chivalry 2",
