@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-01T18:27:47.851844",
-  "total_games": 137,
+  "last_updated": "2026-01-04T01:43:40.866347",
+  "total_games": 138,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Billie's Wheelie",
+      "description": "Grab Billie's Wheelie for free via Steam and keep it forever in your Steam library! Billie's Wheelie is a fun 3d racing game.",
+      "price": "$4.99 → Free",
+      "post_date": "2026-01-03 13:27:11",
+      "link": "https://store.steampowered.com/app/3180310/Billies_Wheelie/",
       "platform": "steam"
     },
     {
