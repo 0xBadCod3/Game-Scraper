@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-04T01:43:40.866347",
-  "total_games": 138,
+  "last_updated": "2026-01-08T18:25:49.724032",
+  "total_games": 139,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,14 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Bloons TD 6",
+      "description": "Massive 3D tower defense game with 70+ handcrafted maps, 17 diverse Heroes and 25 powerful Monkey Towers, designed to give you hours and hours of gameplay.",
+      "price": "$13.99 → Free",
+      "post_date": "2026-01-08T18:10:24+00:00",
+      "link": "https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0",
+      "platform": "epic-games-store"
     },
     {
       "name": "Billie's Wheelie",
