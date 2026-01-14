@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-08T18:25:49.724032",
-  "total_games": 139,
+  "last_updated": "2026-01-14T01:29:44.811160",
+  "total_games": 140,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Initial Drift Online",
+      "description": "Your drifting career starts now. Download Initial Drift Online free on Steam. Initial Drift Online is a multiplayer racing game that aims to be the first MMO of its kind.",
+      "price": "$4.99 → Free",
+      "post_date": "2026-01-13 13:41:19",
+      "link": "https://store.steampowered.com/app/1456200/Initial_Drift_Online/",
       "platform": "steam"
     },
     {
