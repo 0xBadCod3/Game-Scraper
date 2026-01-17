@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-15T18:33:45.774420",
-  "total_games": 142,
+  "last_updated": "2026-01-17T18:25:41.638984",
+  "total_games": 143,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Smart Factory Tycoon",
+      "description": "Smart Factory Tycoon is FREE on Steam until January 20! If you’ve ever wanted to build and automate your own factory without spending a cent, now’s your chance. Grab it, break things and watch your factory come to life.",
+      "price": "$14.99 → Free",
+      "post_date": "2026-01-17 13:22:30",
+      "link": "https://store.steampowered.com/app/1755300/Smart_Factory_Tycoon/",
       "platform": "steam"
     },
     {
