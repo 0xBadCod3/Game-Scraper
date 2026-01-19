@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-17T18:25:41.638984",
-  "total_games": 143,
+  "last_updated": "2026-01-19T18:29:20.811532",
+  "total_games": 145,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,22 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Crown Champion: Legends of the Arena",
+      "description": "Crown Champion: Legends of the Arena is free on Steam until Jan 22! Jump into this fantasy RPG and management simulator where you train champions and fight for glory.",
+      "price": "$4.99 → Free",
+      "post_date": "2026-01-19 13:19:15",
+      "link": "https://store.steampowered.com/app/527710/Crown_Champion_Legends_of_the_Arena/",
+      "platform": "steam"
+    },
+    {
+      "name": "Battle Simulator: Counter Stickman",
+      "description": "Battle Simulator: Counter Stickman is free on Steam until January 22. Grab it now before it’s too late and start simulating your 3d battles today!",
+      "price": "$2.99 → Free",
+      "post_date": "2026-01-19 13:15:58",
+      "link": "https://store.steampowered.com/app/2623090/Battle_Simulator_Counter_Stickman/",
       "platform": "steam"
     },
     {
