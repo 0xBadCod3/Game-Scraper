@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-22T18:29:36.629671",
-  "total_games": 147,
+  "last_updated": "2026-01-25T01:45:01.609160",
+  "total_games": 148,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Kiki",
+      "description": "Grab Kiki for free via Steam! Kiki is a indie 3d platformer with unique graphics. Check it out!",
+      "price": "$4.99 → Free",
+      "post_date": "2026-01-24 14:02:20",
+      "link": "https://store.steampowered.com/app/2142680/Kiki/",
       "platform": "steam"
     },
     {
