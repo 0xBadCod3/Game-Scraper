@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-26T18:32:44.365489",
-  "total_games": 149,
+  "last_updated": "2026-01-27T18:36:26.280840",
+  "total_games": 150,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Along the Edge",
+      "description": "Looking for a new visual novel to try? Along the Edge is free on Steam until Jan 29. It features over 450 full-screen illustrations and an original soundtrack, perfect if you’re into story-driven games.",
+      "price": "$13.99 → Free",
+      "post_date": "2026-01-27 13:14:00",
+      "link": "https://store.steampowered.com/app/504390/Along_the_Edge/",
       "platform": "steam"
     },
     {
