@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-27T18:36:26.280840",
-  "total_games": 150,
+  "last_updated": "2026-01-29T18:41:10.291906",
+  "total_games": 152,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Untrusted",
+      "description": "Grab Untrusted for free on Steam! Untrusted is an online multiplayer social deduction game where you take on the role of a hacker. Don´t miss it!",
+      "price": "$4.99 → Free",
+      "post_date": "2026-01-29 12:03:10",
+      "link": "https://store.steampowered.com/app/1502660/Untrusted/",
+      "platform": "steam"
+    },
+    {
+      "name": "Definitely Not Fried Chicken",
+      "description": "A business management sim with a twist! Build legitimate fronts whilst managing an illicit empire",
+      "price": "$24.99 → Free",
+      "post_date": "2026-01-29T17:10:44+00:00",
+      "link": "https://store.epicgames.com/en-US/p/definitely-not-fried-chicken-a30160",
+      "platform": "epic-games-store"
     },
     {
       "name": "Along the Edge",
