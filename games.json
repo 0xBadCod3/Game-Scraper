@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-29T18:41:10.291906",
-  "total_games": 152,
+  "last_updated": "2026-01-31T18:29:03.025487",
+  "total_games": 154,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "SunBlockers",
+      "description": "SunBlockers is free on the Epic Games Store! SunBlockers is an indie survival mini-adventure with cartoon zombies.",
+      "price": "$1.99 → Free",
+      "post_date": "2026-01-31 10:03:40",
+      "link": "https://store.epicgames.com/en-US/p/sunblockers-83e34a",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "NightReaper2",
+      "description": "Score NightReaper2 for free via Epic Games Store! NightReaper2 is a stylized action game. Check it out!",
+      "price": "$3.99 → Free",
+      "post_date": "2026-01-31 09:53:04",
+      "link": "https://store.epicgames.com/en-US/p/nightreaper2-bc3b86",
+      "platform": "epic-games-store"
     },
     {
       "name": "Untrusted",
