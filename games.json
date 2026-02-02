@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-31T18:29:03.025487",
-  "total_games": 154,
+  "last_updated": "2026-02-02T18:45:31.172543",
+  "total_games": 155,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,14 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Alone in the Dark: The Trilogy",
+      "description": "Add Alone in the Dark: The Trilogy 1+2+3 to your GOG library for free! Don´t miss these amazing classic adventure games.",
+      "price": "$11.37 → Free",
+      "post_date": "2026-02-02 10:04:57",
+      "link": "https://www.gog.com/en/game/alone_in_the_dark_the_trilogy_123",
+      "platform": "gog"
     },
     {
       "name": "SunBlockers",
