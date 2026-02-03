@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-02T18:45:31.172543",
-  "total_games": 155,
+  "last_updated": "2026-02-03T01:56:50.667206",
+  "total_games": 156,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,14 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Find the Oil Racing Edition",
+      "description": "Did you know you can download Find the Oil: Racing Edition for free on the Epic Games Store?",
+      "price": "$4.99 → Free",
+      "post_date": "2026-02-02 20:13:38",
+      "link": "https://store.epicgames.com/en-US/p/the-last-hope-atomic-bomb-crypto-war-d307f6",
+      "platform": "epic-games-store"
     },
     {
       "name": "Alone in the Dark: The Trilogy",
