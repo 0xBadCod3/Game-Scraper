@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-03T01:56:50.667206",
-  "total_games": 156,
+  "last_updated": "2026-02-05T18:44:39.219128",
+  "total_games": 158,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Arabian Gulf",
+      "description": "Score Arabian Gulf for free via Steam! Arabian Gulf is a 3d single-player survival action game set in a harsh desert.",
+      "price": "$1.99 → Free",
+      "post_date": "2026-02-05 13:09:18",
+      "link": "https://store.steampowered.com/app/3744480/Arabian_Gulf/",
+      "platform": "steam"
+    },
+    {
+      "name": "Botany Manor",
+      "description": "Did you ever dream of being a retired botanist? Probably not, but Botany Manor is free on the Epic Games Store, so here we are. Botany Manor is a cosy 3d first-person puzzle game set in a Victorian English manor.\n\n*EDIT: Botany Manor (Mobile version) is also available via Epic Games Store App for iPhone, iPad, and Android.",
+      "price": "$24.99 → Free",
+      "post_date": "2026-02-05 11:01:04",
+      "link": "https://store.epicgames.com/en-US/p/botany-manor-e7c456",
+      "platform": "epic-games-store"
     },
     {
       "name": "Find the Oil Racing Edition",
