@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-05T18:44:39.219128",
-  "total_games": 158,
+  "last_updated": "2026-02-06T18:45:41.361170",
+  "total_games": 159,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Magellania",
+      "description": "Magellania is free on Steam until February 9! Magellania is a cool tactics-RPG set in outer space. Don´t miss it!",
+      "price": "$9.99 → Free",
+      "post_date": "2026-02-06 13:18:35",
+      "link": "https://store.steampowered.com/app/1511950/Magellania/",
       "platform": "steam"
     },
     {
