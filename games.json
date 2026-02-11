@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-06T18:45:41.361170",
-  "total_games": 159,
+  "last_updated": "2026-02-11T19:00:02.499809",
+  "total_games": 160,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Lost in Anomaly",
+      "description": "Lost in Anomaly is free on Steam until February 16! Lost in Anomaly is a 3d first-person immersive sim about finding different anomalies on each floor.",
+      "price": "$3.99 → Free",
+      "post_date": "2026-02-11 13:17:38",
+      "link": "https://www.gamerpower.com/open/lost-in-anomaly-steam-giveaway",
       "platform": "steam"
     },
     {
