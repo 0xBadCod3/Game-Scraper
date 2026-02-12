@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-11T19:00:02.499809",
-  "total_games": 160,
+  "last_updated": "2026-02-12T19:00:37.272990",
+  "total_games": 162,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Nobody Wants to Die",
+      "description": "Detective James Karra, who risks it all in pursuit of a serial killer targeting the city’s elite",
+      "price": "$24.99 → Free",
+      "post_date": "2026-02-12T17:10:40+00:00",
+      "link": "https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "The Darkside Detective: A Fumble in the Dark",
+      "description": "Grab The Darkside Detective: A Fumble in the Dark for free on the Epic Games Store. The Darkside Detective: A Fumble in the Dark is a fun retro point-and-click game full of nostalgia.",
+      "price": "$14.99 → Free",
+      "post_date": "2026-02-12 10:00:22",
+      "link": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-174fcf",
+      "platform": "epic-games-store"
     },
     {
       "name": "Lost in Anomaly",
