@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-12T19:00:37.272990",
-  "total_games": 162,
+  "last_updated": "2026-02-19T18:47:49.760782",
+  "total_games": 165,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,30 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "BROTHER!!! Save him!",
+      "description": "BROTHER!!! Save him! - Hardcore Platformer is free on Steam! BROTHER!!! Save him! - Hardcore Platformer is a 2D retro-style platformer with many traps and fun gameplay.",
+      "price": "$2.99 → Free",
+      "post_date": "2026-02-19 13:11:07",
+      "link": "https://store.steampowered.com/app/1286560/BROTHER_Save_him__Hardcore_Platformer/",
+      "platform": "steam"
+    },
+    {
+      "name": "Paragnosia",
+      "description": "Paragnosia is free on Steam until February 23! Paragnosia is a first person mystery game. Check it out!",
+      "price": "$3.99 → Free",
+      "post_date": "2026-02-19 12:56:20",
+      "link": "https://store.steampowered.com/app/3017580/Paragnosia/",
+      "platform": "steam"
+    },
+    {
+      "name": "Return To Ash",
+      "description": "A narrative-driven visual novel of the afterlife focused on emotional storytelling and relationship building",
+      "price": "$5.99 → Free",
+      "post_date": "2026-02-19T17:10:53+00:00",
+      "link": "https://store.epicgames.com/en-US/p/return-to-ash-dee3ff",
+      "platform": "epic-games-store"
     },
     {
       "name": "Nobody Wants to Die",
