@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-19T18:47:49.760782",
-  "total_games": 165,
+  "last_updated": "2026-02-26T18:51:07.584959",
+  "total_games": 167,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Boxes: Lost Fragments",
+      "description": "Epic Games Store is back with another weekly giveaway. This time, you can score Boxes: Lost Fragments for free, a cool 3D puzzle game where you must solve a series of puzzle boxes designed for an unknown purpose.\r\n\r\n*Boxes: Lost Fragments (Mobile version) is also available via Epic Games Store App for iPhone, iPad, and Android.",
+      "price": "$14.99 → Free",
+      "post_date": "2026-02-26 11:01:05",
+      "link": "https://store.epicgames.com/en-US/p/boxes-lost-fragments-079041",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "My Night Job",
+      "description": "My Night Job sends players into an abandoned building and sick hordes of monsters on them",
+      "price": "$9.99 → Free",
+      "post_date": "2026-02-26T17:10:58+00:00",
+      "link": "https://store.epicgames.com/en-US/p/my-night-job-a416a6",
+      "platform": "epic-games-store"
     },
     {
       "name": "BROTHER!!! Save him!",
