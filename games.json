@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-26T18:51:07.584959",
-  "total_games": 167,
+  "last_updated": "2026-02-27T18:38:54.306659",
+  "total_games": 168,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Just Move:Clean City Messy Battle",
+      "description": "Just Move: Clean City Messy Battle is free on Steam until March 4! Just Move: Clean City Messy Battle is a 2D top-down shooter where your character will automatically shoot at enemies when they’re within range.",
+      "price": "$15.99 → Free",
+      "post_date": "2026-02-27 13:13:16",
+      "link": "https://store.steampowered.com/app/3414900/Just_MoveClean_City_Messy_Battle/",
       "platform": "steam"
     },
     {
