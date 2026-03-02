@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T18:38:54.306659",
-  "total_games": 168,
+  "last_updated": "2026-03-02T18:42:45.385073",
+  "total_games": 169,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "World Crafter TD",
+      "description": "World Crafter TD is currently free on Steam until March 5, so now’s the perfect time to add it to your library. Blending survival crafting with classic tower defense mechanics, World Crafter TD lets you gather resources, craft gear, build up your base, set up turrets, and jump into the action with guns blazing.",
+      "price": "$14.99 → Free",
+      "post_date": "2026-03-02 13:09:31",
+      "link": "https://store.steampowered.com/app/3098890/World_Crafter_TD/",
       "platform": "steam"
     },
     {
