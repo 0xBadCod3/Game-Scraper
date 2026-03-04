@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T18:42:45.385073",
-  "total_games": 169,
+  "last_updated": "2026-03-04T18:44:48.401132",
+  "total_games": 171,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Planet Coaster",
+      "description": "Digiphile is giving away Planet Coaster (Steam) for free! Grab it now before it´s too late! Planet Coaster is a very popular coaster park simulation game. Seriously, don't miss it!",
+      "price": "$44.99 → Free",
+      "post_date": "2026-03-04 12:43:32",
+      "link": "https://www.digiphile.co/collections/planet-coaster-free-game-plus",
+      "platform": "steam"
+    },
+    {
+      "name": "BrightGunner",
+      "description": "Download BrightGunner for free via the Epic Games Store! BrightGunner is an indie 3d first-person shooter game.",
+      "price": "$9.99 → Free",
+      "post_date": "2026-03-04 11:20:14",
+      "link": "https://store.epicgames.com/en-US/p/rockman2000-eb2f84",
+      "platform": "epic-games-store"
     },
     {
       "name": "World Crafter TD",
