@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T18:44:48.401132",
-  "total_games": 171,
+  "last_updated": "2026-03-05T19:15:14.636273",
+  "total_games": 172,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,14 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "Turnip Boy Robs a Bank",
+      "description": "Turnip Boy is back! This time he’s teamed up with the fearsome Pickled Gang to pull off the weirdest heist of all time",
+      "price": "$14.99 → Free",
+      "post_date": "2026-03-05T17:10:18+00:00",
+      "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
     },
     {
       "name": "Planet Coaster",
