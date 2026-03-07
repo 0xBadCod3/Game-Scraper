@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T19:15:14.636273",
-  "total_games": 172,
+  "last_updated": "2026-03-07T01:47:04.810414",
+  "total_games": 173,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Crowalt: Traces of the Lost Colony",
+      "description": "Crowalt: Traces of the Lost Colony is currently free on Steam until March 9, so now’s the perfect time to add it to your library. Crowalt: Traces of the Lost Colony is an indie point-and-click mystery game with modern-day pixel art graphics.",
+      "price": "$9.99 → Free",
+      "post_date": "2026-03-06 13:53:27",
+      "link": "https://store.steampowered.com/app/1269500/Crowalt_Traces_of_the_Lost_Colony/",
       "platform": "steam"
     },
     {
