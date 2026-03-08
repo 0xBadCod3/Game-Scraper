@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-07T01:47:04.810414",
-  "total_games": 173,
+  "last_updated": "2026-03-08T01:55:10.135913",
+  "total_games": 174,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,14 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "The Assault: Survivor",
+      "description": "Score The Assault: Survivor for free via Epic Games Store! The Assault: Survivor is an indie action game that takes you into the world of the apocalypse.",
+      "price": "$4.99 → Free",
+      "post_date": "2026-03-07 17:35:19",
+      "link": "https://store.epicgames.com/en-US/p/sleep-45d60e",
+      "platform": "epic-games-store"
     },
     {
       "name": "Crowalt: Traces of the Lost Colony",
