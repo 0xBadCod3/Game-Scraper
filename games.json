@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T01:55:10.135913",
-  "total_games": 174,
+  "last_updated": "2026-03-09T18:50:15.834086",
+  "total_games": 175,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -598,6 +598,14 @@
       "price": "$14.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
+      "platform": "steam"
+    },
+    {
+      "name": "Deponia",
+      "description": "Deponia is free on Steam until March 16! Deponia is a point-and-click game with a unique comic style and challenging puzzles. Check it out!",
+      "price": "$29.99 → Free",
+      "post_date": "2026-03-09 13:16:55",
+      "link": "https://store.steampowered.com/app/214340/Deponia/",
       "platform": "steam"
     },
     {
