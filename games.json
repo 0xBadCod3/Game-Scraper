@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T18:55:19.549059",
-  "total_games": 180,
+  "last_updated": "2026-03-20T01:54:34.214125",
+  "total_games": 181,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,14 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "I Need Spirit: Off Road Edition",
+      "description": "Download I Need Spirit: Off Road Edition for free via Epic Games Store. I Need Spirit! Off-Road Edition is a indie racing game with tanks and off-road trucks.",
+      "price": "$2.99 → Free",
+      "post_date": "2026-03-19 20:05:39",
+      "link": "https://store.epicgames.com/en-US/p/need-for-spirit-offroad-edition-7eee16",
       "platform": "epic-games-store"
     },
     {
