@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T01:54:34.214125",
-  "total_games": 181,
+  "last_updated": "2026-03-22T18:34:02.586543",
+  "total_games": 183,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,22 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Narvas",
+      "description": "Feel like jumping into some co-op chaos? You can grab Narvas for free on Steam until March 25, so there’s really no excuse not to. Take control of Mace in this local co-op, side-scrolling platform shooter and blast your way from mission to mission.",
+      "price": "$8.99 → Free",
+      "post_date": "2026-03-22 13:10:46",
+      "link": "https://store.steampowered.com/app/640700/Narvas/",
+      "platform": "steam"
+    },
+    {
+      "name": "Wave Gods: Ammo Night",
+      "description": "Score Wave Gods: Ammo Night for free on Epic Games Store! Wave Gods: Ammo Night is a 3d online survival game with endless waves of zombies.",
+      "price": "$12.99 → Free",
+      "post_date": "2026-03-22 08:55:07",
+      "link": "https://store.epicgames.com/en-US/p/wave-gods-ammo-night-7eb978",
       "platform": "epic-games-store"
     },
     {
