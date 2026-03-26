@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22T18:34:02.586543",
-  "total_games": 183,
+  "last_updated": "2026-03-26T19:02:20.357718",
+  "total_games": 186,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,30 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Havendock",
+      "description": "Skip the spring sale, grab Havendock for free on the Epic Games Store! Havendock is a very cozy colony sim where you can live your best life on the ocean.",
+      "price": "$19.99 → Free",
+      "post_date": "2026-03-26 11:00:48",
+      "link": "https://store.epicgames.com/en-US/p/havendock-64983e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Hyper Echelon",
+      "description": "Space Shooter against the evil EXODON! Level up from a pea shooter to an offensive powerhouse as you engage in frantic combat across many wondrous locales",
+      "price": "$19.99 → Free",
+      "post_date": "2026-03-26T16:10:44+00:00",
+      "link": "https://store.epicgames.com/en-US/p/hyper-echelon-2d23ff",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "SYMMETRY",
+      "description": "Don´t miss this adventure! Grab SYMMETRY for free via Epic Games Store! SYMMETRY is a 2d Sci-fi survival management game with excellent gameplay and great story.",
+      "price": "$11.90 → Free",
+      "post_date": "2026-03-26 10:23:20",
+      "link": "https://store.epicgames.com/en-US/p/symmetry-44cf24",
       "platform": "epic-games-store"
     },
     {
