@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-27T02:06:14.759031",
-  "total_games": 187,
+  "last_updated": "2026-03-28T18:37:19.089360",
+  "total_games": 188,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,14 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "FrostLight Escape",
+      "description": "FrostLight Escape is free on Epic Games Store until Mar 29. Please note this giveaway may not be available in all regions.",
+      "price": "$2.99 → Free",
+      "post_date": "2026-03-28 10:57:00",
+      "link": "https://store.epicgames.com/en-US/p/frostlight-escape-94c9b1",
       "platform": "epic-games-store"
     },
     {
