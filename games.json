@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T18:37:19.089360",
-  "total_games": 188,
+  "last_updated": "2026-03-31T02:06:59.889291",
+  "total_games": 189,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,14 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Together After Dark",
+      "description": "Who does not like to dive deep into a dark and dangerous forest? Together After Dark is free on Epic Games Store until April 5! Together After Dark is a co-op survival game for 1-4 players. Try it out!",
+      "price": "$2.99 → Free",
+      "post_date": "2026-03-30 18:35:32",
+      "link": "https://store.epicgames.com/en-US/p/together-after-dark-fa0ce0",
       "platform": "epic-games-store"
     },
     {
