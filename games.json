@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T02:23:34.018945",
-  "total_games": 191,
+  "last_updated": "2026-04-01T18:58:46.108136",
+  "total_games": 192,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -631,6 +631,14 @@
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Depths Of Horror: Mushroom Day",
+      "description": "Depths Of Horror: Mushroom Day is free on Steam until April 6! Depths Of Horror: Mushroom Day is a 3D first-person survival horror game with unexpected inhabitants and \"surprises\".",
+      "price": "$4.99 → Free",
+      "post_date": "2026-04-01 13:20:32",
+      "link": "https://store.steampowered.com/app/1590840/Depths_Of_Horror_Mushroom_Day/",
+      "platform": "steam"
     },
     {
       "name": "Dice Eater: A Supernatural Mystery Card Game",
