@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T18:58:46.108136",
-  "total_games": 192,
+  "last_updated": "2026-04-02T02:03:11.111290",
+  "total_games": 193,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,14 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "TOMAK : Save the Earth Regeneration",
+      "description": "To celebrate its 25th anniversary, TOMAK : Save the Earth Regeneration is free on Epic Games Store until April 16! Love Story is a 2d simulation game from the Korean developer SEED9.",
+      "price": "$9.99 → Free",
+      "post_date": "2026-04-01 20:51:57",
+      "link": "https://store.epicgames.com/en-US/p/tomak-save-the-earth-regeneration-c1207c",
       "platform": "epic-games-store"
     },
     {
