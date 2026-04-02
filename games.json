@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T02:03:11.111290",
-  "total_games": 193,
+  "last_updated": "2026-04-02T18:54:11.075135",
+  "total_games": 195,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,22 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Tractor Racers",
+      "description": "Score Tractor Racers for free via Epic Games Store! Tractor Racers is a 3d single-player racing game where players take control of powerful tractors.",
+      "price": "$9.99 → Free",
+      "post_date": "2026-04-02 12:50:49",
+      "link": "https://store.epicgames.com/en-US/p/tractor-racers-28ca5f",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Clone Drone in the Danger Zone",
+      "description": "Ready to slice some robots like butter? Grab Clone Drone in the Danger Zone for free on the Epic Games Store! Clone Drone in the Danger Zone is a fun 3d robot voxel fighting game where any part of your robot body can be sliced off.",
+      "price": "$19.99 → Free",
+      "post_date": "2026-04-02 11:00:07",
+      "link": "https://store.epicgames.com/en-US/p/clone-drone-in-the-danger-zone-4daf6e",
       "platform": "epic-games-store"
     },
     {
