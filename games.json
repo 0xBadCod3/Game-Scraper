@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T18:55:41.798371",
-  "total_games": 198,
+  "last_updated": "2026-04-09T19:02:43.827023",
+  "total_games": 199,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,14 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Prop Sumo",
+      "description": "Grab your friends, pick your props, and jump into this party fighting game, free this week on the Epic Games Store! Prop Sumo throws everyday objects into chaotic brawl battles, and it’s as fun as it sounds.",
+      "price": "$9.99 → Free",
+      "post_date": "2026-04-09 11:00:18",
+      "link": "https://store.epicgames.com/en-US/p/propsumo-ca8bd7",
       "platform": "epic-games-store"
     },
     {
