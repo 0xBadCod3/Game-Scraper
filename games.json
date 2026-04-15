@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-10T18:48:24.419673",
-  "total_games": 200,
+  "last_updated": "2026-04-15T19:13:25.549258",
+  "total_games": 201,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -631,6 +631,14 @@
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "NineHells",
+      "description": "Download NineHells for free via Steam and keep it forever in your Steam library!",
+      "price": "$0.99 → Free",
+      "post_date": "2026-04-15 14:56:11",
+      "link": "https://store.steampowered.com/app/2860410/NineHells/",
+      "platform": "steam"
     },
     {
       "name": "LivingForest",
