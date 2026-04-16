@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T19:13:25.549258",
-  "total_games": 201,
+  "last_updated": "2026-04-16T19:08:20.072633",
+  "total_games": 205,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,38 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Legend of Keepers",
+      "description": "Don´t miss this amazing giveaway! Get Legend of Keepers for free via Steam until Apr 23! Legend of Keepers is the perfect mix between Dungeon Defender and Roguelite.",
+      "price": "$19.99 → Free",
+      "post_date": "2026-04-16 13:17:04",
+      "link": "https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/",
+      "platform": "steam"
+    },
+    {
+      "name": "Uncanny Tales: Cold Road",
+      "description": "Grab Uncanny Tales: Cold Road for free via Steam until April 20! Uncanny Tales is a 3d episodic series where the scariest things aren’t monsters... Check it out!",
+      "price": "$2.99 → Free",
+      "post_date": "2026-04-16 13:14:45",
+      "link": "https://store.steampowered.com/app/3534240/Uncanny_Tales_Cold_Road/",
+      "platform": "steam"
+    },
+    {
+      "name": "Stickman Killing Zombie",
+      "description": "Score Stickman Killing Zombie for free on Steam until April 19! Stickman Killing Zombie is a 3d action adventure game with zombies.",
+      "price": "$2.99 → Free",
+      "post_date": "2026-04-16 13:12:22",
+      "link": "https://store.steampowered.com/app/2792610/Stickman_Killing_Zombie/",
+      "platform": "steam"
+    },
+    {
+      "name": "The Stone of Madness",
+      "description": "Escape The Monastery in this Real-time Tactical Stealth game set in an 18th-century Spanish Monastery",
+      "price": "$29.99 → Free",
+      "post_date": "2026-04-16T16:10:53+00:00",
+      "link": "https://store.epicgames.com/en-US/p/the-stone-of-madness-7b22f3",
       "platform": "epic-games-store"
     },
     {
