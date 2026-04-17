@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T19:08:20.072633",
-  "total_games": 205,
+  "last_updated": "2026-04-17T13:13:51.385758",
+  "total_games": 206,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,14 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Undead Rise of the Betrayed King",
+      "description": "Download Undead Rise of the Betrayed King for free via Epic Games Store! It’s an action RPG game with realistic visuals.",
+      "price": "$19.99 → Free",
+      "post_date": "2026-04-17 07:52:19",
+      "link": "https://store.epicgames.com/en-US/p/undead-rise-of-the-betrayed-king-4ad94c",
       "platform": "epic-games-store"
     },
     {
