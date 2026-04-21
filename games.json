@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T19:01:46.317000",
-  "total_games": 207,
+  "last_updated": "2026-04-21T13:20:40.360103",
+  "total_games": 208,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -631,6 +631,14 @@
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "The Whispering Valley",
+      "description": "Who wouldn’t want to explore a remote village? Grab The Whispering Valley for free via GOG, a 3D point-and-click game where you can explore a village and solve complex puzzles.",
+      "price": "$11.99 → Free",
+      "post_date": "2026-04-21 09:13:39",
+      "link": "https://www.gog.com/en/game/the_whispering_valley",
+      "platform": "gog"
     },
     {
       "name": "Sentience: The Android's Tale",
