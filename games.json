@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-22T19:10:08.658229",
-  "total_games": 209,
+  "last_updated": "2026-04-23T02:25:59.269068",
+  "total_games": 210,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -631,6 +631,14 @@
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Aeonic",
+      "description": "Grab Aeonic for free via Steam until April 29!",
+      "price": "$3.99 → Free",
+      "post_date": "2026-04-22 18:01:33",
+      "link": "https://store.steampowered.com/app/3277530/Aeonic/",
+      "platform": "steam"
     },
     {
       "name": "SurrounDead Poly Construction",
