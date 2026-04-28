@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-23T19:04:26.073996",
-  "total_games": 213,
+  "last_updated": "2026-04-28T02:40:26.945749",
+  "total_games": 214,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -630,6 +630,14 @@
       "price": "$14.99 → Free",
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Typers Combat",
+      "description": "You don't need to type to claim this giveaway! Grab Typers Combat for free on the Epic Games Store, and type your way into victory.",
+      "price": "$5.99 → Free",
+      "post_date": "2026-04-27 16:56:38",
+      "link": "https://store.epicgames.com/en-US/p/typers-combat-23ed78",
       "platform": "epic-games-store"
     },
     {
