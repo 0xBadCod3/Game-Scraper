@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T02:40:26.945749",
-  "total_games": 214,
+  "last_updated": "2026-04-30T19:16:39.434367",
+  "total_games": 220,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -631,6 +631,54 @@
       "post_date": "2026-03-05T17:10:18+00:00",
       "link": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Oddsparks: An Automation Adventure",
+      "description": "Explore a strange fantasy world, uncover the mysteries of the past, automate your workshops, and go on adventures with your odd & adorable Sparks in this blend of automation and real time strategy genres.",
+      "price": "$29.99 → Free",
+      "post_date": "2026-04-30T17:10:05+00:00",
+      "link": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Firestone: Free $100 Bundle",
+      "description": "Log in to Firestone through Epic Games Store until Thursday May 7 to claim and exclusive bundle.",
+      "price": "$100.00 → Free",
+      "post_date": "2026-04-30 11:00:08",
+      "link": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Adventures of Robbo",
+      "description": "Download Adventures of Robbo for free via GOG until May 8! Adventures of Robbo is a 2d Sci-fi puzle game. Check it out!",
+      "price": "Free",
+      "post_date": "2026-04-30 10:19:57",
+      "link": "https://www.gog.com/en/game/adventures_of_robbo",
+      "platform": "gog"
+    },
+    {
+      "name": "Electro Man",
+      "description": "Download Electro Man for free via GOG until May 8! Electro Man is a 2d Sci-fi retro arcade game. Check it out!",
+      "price": "Free",
+      "post_date": "2026-04-30 10:12:54",
+      "link": "https://www.gog.com/en/game/electro_man",
+      "platform": "gog"
+    },
+    {
+      "name": "Heartlight",
+      "description": "Download Heartlight for free via GOG until May 8! Heartlight is a fun 2d retro arcade game. Check it out!",
+      "price": "Free",
+      "post_date": "2026-04-30 10:08:13",
+      "link": "https://www.gog.com/en/game/heartlight",
+      "platform": "gog"
+    },
+    {
+      "name": "Robbo",
+      "description": "Download Robbo for free via GOG until May 8! Robbo is a 2d Sci-fi puzle game. Check it out!",
+      "price": "Free",
+      "post_date": "2026-04-30 10:07:27",
+      "link": "https://www.gog.com/en/game/robbo",
+      "platform": "gog"
     },
     {
       "name": "Typers Combat",
