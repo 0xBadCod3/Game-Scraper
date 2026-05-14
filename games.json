@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-10T18:59:15.289314",
-  "total_games": 225,
+  "last_updated": "2026-05-14T02:51:09.488963",
+  "total_games": 226,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1471,6 +1471,14 @@
       "post_date": "2025-12-12 13:11:01",
       "link": "https://store.steampowered.com/app/561770/Just_Ignore_Them/",
       "platform": "steam"
+    },
+    {
+      "name": "Lost in the Hole",
+      "description": "Looking for a 3d sci-fi survival FPS game? Download Lost in the Hole for free on Epic Games Store! Please note this giveaway is not available in some regions.",
+      "price": "$14.99 → Free",
+      "post_date": "2026-05-13 19:45:18",
+      "link": "https://store.epicgames.com/p/lost-in-the-hole-3e0586",
+      "platform": "epic-games-store"
     },
     {
       "name": "Just Move Fall Dungeon Endless Abyss",
