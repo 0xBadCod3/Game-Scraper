@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T02:51:09.488963",
-  "total_games": 226,
+  "last_updated": "2026-05-14T14:04:17.765223",
+  "total_games": 227,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1471,6 +1471,14 @@
       "post_date": "2025-12-12 13:11:01",
       "link": "https://store.steampowered.com/app/561770/Just_Ignore_Them/",
       "platform": "steam"
+    },
+    {
+      "name": "Devil's Island",
+      "description": "Devil's Island is free on Epic Games Store until May 16! Devil's Island is a 3d zombie survival FPS game with post-apocalyptic themes. Check it out.",
+      "price": "$0.99 → Free",
+      "post_date": "2026-05-14 06:36:47",
+      "link": "https://store.epicgames.com/p/devils-island-03e902",
+      "platform": "epic-games-store"
     },
     {
       "name": "Lost in the Hole",
