@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T02:52:04.114575",
-  "total_games": 232,
+  "last_updated": "2026-05-15T19:26:33.193556",
+  "total_games": 233,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1470,6 +1470,14 @@
       "price": "$3.99 → Free",
       "post_date": "2025-12-12 13:11:01",
       "link": "https://store.steampowered.com/app/561770/Just_Ignore_Them/",
+      "platform": "steam"
+    },
+    {
+      "name": "Dino running from a FURRY: GAMESFORFARM",
+      "description": "So... basically, you can be a furry chasing a dino in this 2.5D runner game that’s free on Steam until May 30.",
+      "price": "$2.99 → Free",
+      "post_date": "2026-05-15 13:18:54",
+      "link": "https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/",
       "platform": "steam"
     },
     {
