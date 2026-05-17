@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T19:26:33.193556",
-  "total_games": 233,
+  "last_updated": "2026-05-17T02:49:25.764442",
+  "total_games": 234,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1471,6 +1471,14 @@
       "post_date": "2025-12-12 13:11:01",
       "link": "https://store.steampowered.com/app/561770/Just_Ignore_Them/",
       "platform": "steam"
+    },
+    {
+      "name": "Spirit Catcher 93'",
+      "description": "Score Spirit Catcher 93' for free via Epic Games Store! Spirit Catcher 93' is a 3d retro-futuristic first person game. Check it out!",
+      "price": "$14.99 → Free",
+      "post_date": "2026-05-16 19:07:30",
+      "link": "https://store.epicgames.com/p/spirit-catcher-93-ee155d",
+      "platform": "epic-games-store"
     },
     {
       "name": "Dino running from a FURRY: GAMESFORFARM",
