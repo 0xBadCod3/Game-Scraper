@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-17T02:49:25.764442",
-  "total_games": 234,
+  "last_updated": "2026-05-21T19:50:29.046424",
+  "total_games": 238,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1473,6 +1473,22 @@
       "platform": "steam"
     },
     {
+      "name": "Tomb Raider 1-3 Remastered Starring Lara Croft",
+      "description": "This is your chance to play the original three Tomb Raider Adventures without spending a dime, just grab it for free on Epic Games Store until May 28. These three games don’t need any introduction, and now they look even better, fully restored and featuring a new Challenge Mode.",
+      "price": "$29.99 → Free",
+      "post_date": "2026-05-21 11:10:14",
+      "link": "https://store.epicgames.com/p/tomb-raider-iiii-remastered-538640",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Down in Bermuda",
+      "description": "Ready to be stranded in Bermuda? Grab Down in Bermuda for free on Epic Games Store until May 28! Down in Bermuda is a fun 3d adventure game filled with puzzles to solve and mysteries to uncover. Don´t miss it!",
+      "price": "$19.99 → Free",
+      "post_date": "2026-05-21 11:04:49",
+      "link": "https://store.epicgames.com/p/down-in-bermuda",
+      "platform": "epic-games-store"
+    },
+    {
       "name": "Spirit Catcher 93'",
       "description": "Score Spirit Catcher 93' for free via Epic Games Store! Spirit Catcher 93' is a 3d retro-futuristic first person game. Check it out!",
       "price": "$14.99 → Free",
@@ -1566,6 +1582,14 @@
       "price": "$19.99 → Free",
       "post_date": "2026-05-07 11:09:17",
       "link": "https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+      "description": "Play the Original Three Tomb Raider Adventures: For the first time ever, play the complete experience with all expansions and secret levels on modern platforms in this definitive collection",
+      "price": "CA$33.99 → Free",
+      "post_date": "2026-05-21T16:10:13+00:00",
+      "link": "https://store.epicgames.com/p/tomb-raider-iiii-remastered-538640",
       "platform": "epic-games-store"
     },
     {
@@ -1681,10 +1705,18 @@
       "platform": "epic-games-store"
     },
     {
+      "name": "Car Mechanic Simulator 2018",
+      "description": "Score Car Mechanic Simulator 2018 for free on Steam until May 27! Car Mechanic Simulator 2018 is a realistic simulation game with unique cars.",
+      "price": "$19.99 → Free",
+      "post_date": "2026-05-21 13:05:19",
+      "link": "https://store.steampowered.com/app/645630/Car_Mechanic_Simulator_2018/",
+      "platform": "steam"
+    },
+    {
       "name": "Warhammer 40,000: Gladius - Relics of War",
-      "description": null,
+      "description": "Claim Warhammer 40,000: Gladius - Relics of War without any cost via Steam! Warhammer 40,000: Gladius - Relics of War is the first turn-based 4X strategy game set in the Warhammer 40,000 universe and you will lead one of four unique factions!",
       "price": "$39.99 → Free",
-      "post_date": null,
+      "post_date": "2026-05-21 12:23:46",
       "link": "https://www.gog.com/en/game/warhammer_40000_gladius_relics_of_war",
       "platform": "gog"
     },
