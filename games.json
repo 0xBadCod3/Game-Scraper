@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T15:44:33.381824",
-  "total_games": 242,
+  "last_updated": "2026-05-28T20:15:33.811578",
+  "total_games": 243,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1703,6 +1703,14 @@
       "post_date": null,
       "link": "https://store.epicgames.com/en-US/p/two-point-hospital",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Drift86",
+      "description": "Get in your favorite car and set records alone or with friends in this unique arcade game!",
+      "price": "$1.99 → Free",
+      "post_date": "2026-05-28T17:10:47+00:00",
+      "link": "https://store.steampowered.com/app/1070580/Drift86/",
+      "platform": "steam"
     },
     {
       "name": "LONESTAR",
