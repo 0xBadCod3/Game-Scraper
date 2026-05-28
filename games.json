@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T19:41:17.330501",
-  "total_games": 240,
+  "last_updated": "2026-05-28T15:44:33.381824",
+  "total_games": 242,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1702,6 +1702,22 @@
       "price": "$29.99 → Free",
       "post_date": null,
       "link": "https://store.epicgames.com/en-US/p/two-point-hospital",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "LONESTAR",
+      "description": "Looking for a Slay the Spire in space? Grab LONESTAR for free on Epic Games Store until June 4. LONESTAR is a cool 2d strategic Roguelike spaceship deckbuilder. Don´t miss this one!",
+      "price": "$12.99 → Free",
+      "post_date": "2026-05-28 11:09:40",
+      "link": "https://store.epicgames.com/p/lonestar-83f143",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Calico",
+      "description": "Don´t miss this cozy 3d game, grab it for free on Epic Games Store until June 4. Calico is cozy community sim game where you rebuild the town’s cat café.",
+      "price": "$11.99 → Free",
+      "post_date": "2026-05-28 11:04:51",
+      "link": "https://store.epicgames.com/p/calico",
       "platform": "epic-games-store"
     },
     {
