@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T20:15:33.811578",
-  "total_games": 243,
+  "last_updated": "2026-05-30T19:08:43.178988",
+  "total_games": 245,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1727,6 +1727,22 @@
       "post_date": "2026-05-28 11:04:51",
       "link": "https://store.epicgames.com/p/calico",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Moonrise Fall",
+      "description": "Download Moonrise Fall for free on Steam until June 2! Moonrise Fall is a 2d exploration puzzle game with an immersive pixel graphics world and unique puzzles to solve.",
+      "price": "$9.99 → Free",
+      "post_date": "2026-05-30 13:57:19",
+      "link": "https://store.steampowered.com/app/1035110/Moonrise_Fall/",
+      "platform": "steam"
+    },
+    {
+      "name": "IQ Under Construction",
+      "description": "Score IQ Under Construction for free via Steam until June 1! IQ Under Construction is a 3d platformer with single-player and online co-op. Check it out.",
+      "price": "$2.99 → Free",
+      "post_date": "2026-05-30 13:53:35",
+      "link": "https://store.steampowered.com/app/3771740/IQ_Under_Construction/",
+      "platform": "steam"
     },
     {
       "name": "Bunny Guys!",
