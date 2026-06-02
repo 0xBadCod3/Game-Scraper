@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-30T19:08:43.178988",
-  "total_games": 245,
+  "last_updated": "2026-06-02T20:44:09.154951",
+  "total_games": 246,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1825,10 +1825,18 @@
       "platform": "steam"
     },
     {
+      "name": "Winexy",
+      "description": "Become a ball today! Score Winexy for free on Steam until June 5. Winexy is a 3d rolling ball game with simple gameplay.",
+      "price": "$4.99 → Free",
+      "post_date": "2026-06-02 13:10:28",
+      "link": "https://store.steampowered.com/app/577740/Winexy/",
+      "platform": "steam"
+    },
+    {
       "name": "Tell Me Why",
-      "description": null,
+      "description": "Dive into the Riveting World of Tell Me Why for FREE on Steam! Tell Me Why is a multi-award winning episodic adventure game from Dontnod Entertainment! Don't pass up the chance to experience this extraordinary game for free!",
       "price": "$19.99 → Free",
-      "post_date": null,
+      "post_date": "2026-06-01 17:32:24",
       "link": "https://store.steampowered.com/app/1180660/Tell_Me_Why/",
       "platform": "steam"
     },
