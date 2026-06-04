@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T20:44:09.154951",
-  "total_games": 246,
+  "last_updated": "2026-06-04T20:02:03.556382",
+  "total_games": 248,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1823,6 +1823,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/1608450/Hellslave/",
       "platform": "steam"
+    },
+    {
+      "name": "Songs of Conquest",
+      "description": "Claim Songs of Conquest for free on the Epic Games Store. Songs of Conquest is a turn-based strategy game with tactical combat and kingdom management. This game has lots of positive reviews, so don't miss it!",
+      "price": "$29.99 → Free",
+      "post_date": "2026-06-04 11:08:07",
+      "link": "https://store.epicgames.com/p/songs-of-conquest",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Rogue Waters",
+      "description": "Turn-Based Roguelite - Gather your ragtag crew of rogues and grow them into fierce pirates!",
+      "price": "$29.99 → Free",
+      "post_date": "2026-06-04T16:10:17+00:00",
+      "link": "https://store.epicgames.com/p/rogue-waters-9764d6",
+      "platform": "epic-games-store"
     },
     {
       "name": "Winexy",
