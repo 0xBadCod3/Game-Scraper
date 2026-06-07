@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T20:02:03.556382",
-  "total_games": 248,
+  "last_updated": "2026-06-07T19:18:54.755680",
+  "total_games": 250,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1823,6 +1823,22 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/1608450/Hellslave/",
       "platform": "steam"
+    },
+    {
+      "name": "Relaxing Simulator",
+      "description": "Just relax and grab Relaxing Simulator for free on the Epic Games Store for the ultimate relaxing experience!",
+      "price": "$7.99 → Free",
+      "post_date": "2026-06-07 15:10:57",
+      "link": "https://store.epicgames.com/p/relaxing-simulator-4cca47",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Remothered: Broken Porcelain",
+      "description": "Download Remothered: Broken Porcelain for free via GOG! Remothered: Broken Porcelain is a realistic survival game with stealth gameplay. Check it out!",
+      "price": "$29.99 → Free",
+      "post_date": "2026-06-07 15:00:04",
+      "link": "https://www.gog.com/en/game/remothered_broken_porcelain",
+      "platform": "gog"
     },
     {
       "name": "Songs of Conquest",
