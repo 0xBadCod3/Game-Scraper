@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-07T19:18:54.755680",
-  "total_games": 250,
+  "last_updated": "2026-06-08T03:41:05.738650",
+  "total_games": 251,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1822,6 +1822,14 @@
       "price": "$19.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/1608450/Hellslave/",
+      "platform": "steam"
+    },
+    {
+      "name": "Remothered: Tormented Fathers",
+      "description": "Score Remothered: Tormented Fathers for free via Steam until 8 Jun! Remothered: Tormented Fathers is a realistic survival game with unpredictable twists. Don´t miss it!",
+      "price": "$19.99 → Free",
+      "post_date": "2026-06-07 16:04:32",
+      "link": "https://store.steampowered.com/app/633360/Remothered_Tormented_Fathers/",
       "platform": "steam"
     },
     {
