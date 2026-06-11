@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08T03:41:05.738650",
-  "total_games": 251,
+  "last_updated": "2026-06-11T15:55:13.853625",
+  "total_games": 255,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1822,6 +1822,38 @@
       "price": "$19.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/1608450/Hellslave/",
+      "platform": "steam"
+    },
+    {
+      "name": "The Red Lantern",
+      "description": "This giveaway is for the dog lovers! Grab The Red Lantern for free on Steam until June 18! The Red Lantern is a 3d first person dog sledding game with very positive reviews. Don´t miss it!",
+      "price": "$24.99 → Free",
+      "post_date": "2026-06-11 11:10:38",
+      "link": "https://store.steampowered.com/app/1053710/The_Red_Lantern/",
+      "platform": "steam"
+    },
+    {
+      "name": "Warhammer 40,000: Speed Freeks",
+      "description": "You don't need to race to grab this giveaway! Score Warhammer 40,000: Speed Freeks for free on Epic Games Store until June 18! Warhammer 40,000: Speed Freeks is a cool combat racing game in the Warhammer 40,000 universe!",
+      "price": "$19.99 → Free",
+      "post_date": "2026-06-11 11:02:49",
+      "link": "https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "The Ouroboros King",
+      "description": "Checkmate your boredom! Download The Ouroboros King without any cost via Epic Games Store! The Ouroboros King combines chess with the replayability of roguelikes. Check it out!",
+      "price": "$9.99 → Free",
+      "post_date": "2026-06-11 11:01:03",
+      "link": "https://store.epicgames.com/p/the-ouroboros-king-e1d547",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Happy's Humble Burger Farm",
+      "description": "Start grilling patties today with this giveaway! Grab Happy’s Humble Burger Farm for free on Steam until June 15. Happy’s Humble Burger Farm is a first-person sim game about serving customers and maintaining a restaurant. Don´t miss it!",
+      "price": "$19.99 → Free",
+      "post_date": "2026-06-11 09:22:28",
+      "link": "https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/",
       "platform": "steam"
     },
     {
