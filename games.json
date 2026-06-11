@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T15:55:13.853625",
-  "total_games": 255,
+  "last_updated": "2026-06-11T20:17:42.285670",
+  "total_games": 256,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1822,6 +1822,14 @@
       "price": "$19.99 → Free",
       "post_date": null,
       "link": "https://store.steampowered.com/app/1608450/Hellslave/",
+      "platform": "steam"
+    },
+    {
+      "name": "Eets",
+      "description": "Claim Eets for free on Steam until June 15! Eets is a 2D puzzle game, something like Lemmings meets The Incredible Machine.",
+      "price": "$9.99 → Free",
+      "post_date": "2026-06-11 13:10:17",
+      "link": "https://store.steampowered.com/app/6100/Eets/",
       "platform": "steam"
     },
     {
