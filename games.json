@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T20:17:42.285670",
-  "total_games": 256,
+  "last_updated": "2026-06-18T15:17:42.057057",
+  "total_games": 258,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1446,6 +1446,22 @@
       "price": "$14.99 → Free",
       "post_date": "2025-12-18T19:10:43+00:00",
       "link": "https://store.epicgames.com/en-US/p/jotunnslayer-hordes-of-hel-3579b3",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "ROBOBEAT",
+      "description": "You are on a mission to capture a robot gone rogue! So grab ROBOBEAT directly from the Epic Games Store while it's free, jump into the game, and play this rhythm shooter until you complete your mission!",
+      "price": "$19.99 → Free",
+      "post_date": "2026-06-18 11:03:53",
+      "link": "https://store.epicgames.com/p/robobeat-5f084b",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Citizen Sleeper",
+      "description": "Don’t miss this amazing narrative RPG, available for free this week on the Epic Games Store! Citizen Sleeper is a captivating cyberpunk experience set in a fascinating universe. Seriously, don’t miss it!",
+      "price": "$19.99 → Free",
+      "post_date": "2026-06-18 11:01:35",
+      "link": "https://store.epicgames.com/p/citizen-sleeper-944858",
       "platform": "epic-games-store"
     },
     {
