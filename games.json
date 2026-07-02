@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-27T02:50:12.624098",
-  "total_games": 261,
+  "last_updated": "2026-07-02T19:20:03.973702",
+  "total_games": 263,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1446,6 +1446,22 @@
       "price": "$14.99 → Free",
       "post_date": "2025-12-18T19:10:43+00:00",
       "link": "https://store.epicgames.com/en-US/p/jotunnslayer-hordes-of-hel-3579b3",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "River City Girls 2",
+      "description": "Streets of Rage with Female Anime Protagonists",
+      "price": "$39.99 → Free",
+      "post_date": "2026-07-02T16:10:33+00:00",
+      "link": "https://store.epicgames.com/p/river-city-girls-2-77af3a",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "I Have No Mouth, and I Must Scream",
+      "description": "Adventure Game with an AI destroying all of humanity except for five people",
+      "price": "$9.99 → Free",
+      "post_date": "2026-07-02T16:10:32+00:00",
+      "link": "https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2",
       "platform": "epic-games-store"
     },
     {
