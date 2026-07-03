@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T19:20:03.973702",
-  "total_games": 263,
+  "last_updated": "2026-07-03T13:57:05.059029",
+  "total_games": 264,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1447,6 +1447,14 @@
       "post_date": "2025-12-18T19:10:43+00:00",
       "link": "https://store.epicgames.com/en-US/p/jotunnslayer-hordes-of-hel-3579b3",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Nexus: The Jupiter Incident",
+      "description": "Save the galaxy today! Grab Nexus: The Jupiter Incident for free via GOG! Nexus: The Jupiter Incident is a 3d sci-fi real-time strategy (RTS) game where you command up to a dozen battleships in intense real-time space battles. Don´t miss it!",
+      "price": "$9.99 → Free",
+      "post_date": "2026-07-03 08:54:19",
+      "link": "https://www.gog.com/en/game/nexus_the_jupiter_incident",
+      "platform": "gog"
     },
     {
       "name": "River City Girls 2",
