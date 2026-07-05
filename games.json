@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T13:57:05.059029",
-  "total_games": 264,
+  "last_updated": "2026-07-05T19:13:06.704351",
+  "total_games": 265,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1919,6 +1919,14 @@
       "post_date": "2026-06-11 11:01:03",
       "link": "https://store.epicgames.com/p/the-ouroboros-king-e1d547",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "DockBar",
+      "description": "Dynamic Island-style control bar — music, system monitor, timers & notes at the top of your screen",
+      "price": "$4.99 → $2.49",
+      "post_date": "2026-07-05T17:10:21+00:00",
+      "link": "https://store.steampowered.com/app/4431900/DockBar/",
+      "platform": "steam"
     },
     {
       "name": "Happy's Humble Burger Farm",
