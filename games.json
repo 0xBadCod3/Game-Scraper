@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T19:40:55.779428",
-  "total_games": 268,
+  "last_updated": "2026-07-12T19:01:12.650404",
+  "total_games": 270,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1446,6 +1446,22 @@
       "price": "$14.99 → Free",
       "post_date": "2025-12-18T19:10:43+00:00",
       "link": "https://store.epicgames.com/en-US/p/jotunnslayer-hordes-of-hel-3579b3",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "KeepUp Survival",
+      "description": "Looking for a open-world crafting and survival game? Score KeepUp Survival for free via Epic Games Store. KeepUp Survival is a 3d first-person open-world base-building and exploration game with survival elements. Give it a try!",
+      "price": "$14.99 → Free",
+      "post_date": "2026-07-12 12:19:41",
+      "link": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "NoRush! - Tower Edition s",
+      "description": "No rush to claim this giveaway. Grab NoRush! - Tower Edition for free via Epic Games Store! NoRush is a 3d casual runner game with unexpected twists.",
+      "price": "$2.99 → Free",
+      "post_date": "2026-07-12 10:10:12",
+      "link": "https://store.epicgames.com/p/norush-67f385",
       "platform": "epic-games-store"
     },
     {
