@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-12T19:01:12.650404",
-  "total_games": 270,
+  "last_updated": "2026-07-15T19:06:29.220695",
+  "total_games": 272,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -879,6 +879,22 @@
       "post_date": "2026-03-31 19:39:52",
       "link": "https://store.epicgames.com/en-US/p/vornyca-987482",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Catch Me!",
+      "description": "Catch this giveaway! Grab Catch Me! for free via Steam until 17 Jul.  Catch Me! is a fun 2d 4-player game of tag. Don´t miss it!",
+      "price": "$9.99 → Free",
+      "post_date": "2026-07-15 13:09:34",
+      "link": "https://store.steampowered.com/app/1741160/Catch_Me/",
+      "platform": "steam"
+    },
+    {
+      "name": "The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack",
+      "description": null,
+      "price": "$4.99 → Free",
+      "post_date": null,
+      "link": "https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/",
+      "platform": "steam"
     },
     {
       "name": "Together After Dark",
