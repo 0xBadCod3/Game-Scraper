@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T19:06:29.220695",
-  "total_games": 272,
+  "last_updated": "2026-07-16T19:05:00.674978",
+  "total_games": 274,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -878,6 +878,22 @@
       "price": "$4.99 → Free",
       "post_date": "2026-03-31 19:39:52",
       "link": "https://store.epicgames.com/en-US/p/vornyca-987482",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Echo Generation: Midnight Edition",
+      "description": "90s styled! Lead a gang of kids to uncover spooky mysteries, battle creatures, and explore the supernatural side of your hometown",
+      "price": "$24.99 → Free",
+      "post_date": "2026-07-16T16:10:30+00:00",
+      "link": "https://store.epicgames.com/p/echo-generation-midnight-edition-069026",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Luto",
+      "description": "A psychological horror experience where you take on the role of someone unable to leave their home",
+      "price": "$19.99 → Free",
+      "post_date": "2026-07-16T16:10:29+00:00",
+      "link": "https://store.epicgames.com/p/luto-0a4ab3",
       "platform": "epic-games-store"
     },
     {
