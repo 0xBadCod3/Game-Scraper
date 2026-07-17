@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T19:05:00.674978",
-  "total_games": 274,
+  "last_updated": "2026-07-17T19:02:58.066739",
+  "total_games": 275,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -879,6 +879,14 @@
       "post_date": "2026-03-31 19:39:52",
       "link": "https://store.epicgames.com/en-US/p/vornyca-987482",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "The Life and Suffering of Sir Brante",
+      "description": "Looking for a new Steam game? Score The Life and Suffering of Sir Brante for free via Steam until July 23! The Life and Suffering of Sir Brante is a 2d narrative-driven RPG game with an interesting art style. Check it out.",
+      "price": "$19.99 → Free",
+      "post_date": "2026-07-17 13:26:16",
+      "link": "https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/",
+      "platform": "steam"
     },
     {
       "name": "Echo Generation: Midnight Edition",
