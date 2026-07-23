@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T19:02:58.066739",
-  "total_games": 275,
+  "last_updated": "2026-07-23T19:10:39.388669",
+  "total_games": 277,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -878,6 +878,22 @@
       "price": "$4.99 → Free",
       "post_date": "2026-03-31 19:39:52",
       "link": "https://store.epicgames.com/en-US/p/vornyca-987482",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Yet Another Zombie Defense HD",
+      "description": "Fight zombies today! Grab Yet Another Zombie Defense HD for free on Steam until  until July 30 and keep it forever in your Steam library! Yet Another Zombie Defense HD is a 3d top-down zombie shooter with tower defense elements and online co-op. Don´t miss it!",
+      "price": "$3.99 → Free",
+      "post_date": "2026-07-23 13:15:30",
+      "link": "https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/",
+      "platform": "steam"
+    },
+    {
+      "name": "Foretales",
+      "description": "Save the world... with this card game! Grab it for free on the Epic Games Store until July 30. Foretales is a unique story-driven card game with a multitude of playstyles. Check it out! This game is also available on the Epic Games Store App for iPhone, iPad, and Android.",
+      "price": "$19.99 → Free",
+      "post_date": "2026-07-23 11:00:15",
+      "link": "https://store.epicgames.com/p/foretales-d6c5bd",
       "platform": "epic-games-store"
     },
     {
