@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T19:21:05.756140",
-  "total_games": 279,
+  "last_updated": "2026-08-04T02:10:52.835447",
+  "total_games": 280,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -878,6 +878,14 @@
       "price": "$4.99 → Free",
       "post_date": "2026-03-31 19:39:52",
       "link": "https://store.epicgames.com/en-US/p/vornyca-987482",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Project First Contact",
+      "description": "Download Project First Contact for free on the Epic Games Store! Project First Contact is a 3d first-person survival game set in various locations on Earth, including Area 51.",
+      "price": "$1.99 → Free",
+      "post_date": "2026-08-03 18:14:16",
+      "link": "https://store.epicgames.com/p/project-first-contact-ff7fdc",
       "platform": "epic-games-store"
     },
     {
