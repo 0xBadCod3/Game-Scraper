@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T02:10:52.835447",
-  "total_games": 280,
+  "last_updated": "2026-08-05T19:25:19.970584",
+  "total_games": 281,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -879,6 +879,14 @@
       "post_date": "2026-03-31 19:39:52",
       "link": "https://store.epicgames.com/en-US/p/vornyca-987482",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Moonlighter",
+      "description": "Looking for a new Action RPG game? Grab Moonlighter for free via Steam and keep it forever! Moonlighter is a 2d Action RPG with rogue-lite elements and cool pixel graphics.",
+      "price": "$19.99 → Free",
+      "post_date": "2026-08-05 14:23:24",
+      "link": "https://store.steampowered.com/app/606150/Moonlighter/",
+      "platform": "steam"
     },
     {
       "name": "Project First Contact",
