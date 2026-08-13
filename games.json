@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T01:43:13.158053",
-  "total_games": 288,
+  "last_updated": "2026-08-13T18:59:02.345471",
+  "total_games": 289,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1398,6 +1398,14 @@
       "price": "$19.99 → Free",
       "post_date": "2025-12-27T17:10:30+00:00",
       "link": "https://store.epicgames.com/en-US/p/cassette-beasts-32c8e0",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Caravan SandWitch",
+      "description": "Take your time to explore the world, whether in your van or on foot in a post-apocalyptic world",
+      "price": "$24.99 → Free",
+      "post_date": "2026-08-13T15:10:23+00:00",
+      "link": "https://store.epicgames.com/p/caravan-sandwitch-05ff58",
       "platform": "epic-games-store"
     },
     {
