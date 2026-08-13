@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-09T12:42:42.571913",
-  "total_games": 287,
+  "last_updated": "2026-08-13T01:43:13.158053",
+  "total_games": 288,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1398,6 +1398,14 @@
       "price": "$19.99 → Free",
       "post_date": "2025-12-27T17:10:30+00:00",
       "link": "https://store.epicgames.com/en-US/p/cassette-beasts-32c8e0",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Targeted – 10 Days",
+      "description": "New Giveaway! Download Targeted – 10 Days for free via Epic Games Store! Targeted – 10 Days is a 3d escape-room-style game with multiple difficulty levels.",
+      "price": "$4.99 → Free",
+      "post_date": "2026-08-12 17:36:39",
+      "link": "https://store.epicgames.com/p/targeted-10-days-75a48c",
       "platform": "epic-games-store"
     },
     {
