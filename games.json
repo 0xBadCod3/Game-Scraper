@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T18:37:57.069268",
-  "total_games": 294,
+  "last_updated": "2026-08-26T01:06:08.001796",
+  "total_games": 295,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -599,6 +599,14 @@
       "post_date": null,
       "link": "https://store.steampowered.com/app/384310/Dead_In_Bermuda/",
       "platform": "steam"
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt Concert",
+      "description": "Score The Witcher 3: Wild Hunt concert for free on GOG and enjoy 90 minutes of live music performed during the Film Music Festival 2016 in Kraków, Poland.",
+      "price": "Free",
+      "post_date": "2026-08-25 17:38:49",
+      "link": "https://www.gog.com/en/game/video_game_show_the_witcher_3_wild_hunt_concert_2016",
+      "platform": "gog"
     },
     {
       "name": "Microsoft Flight Simulator Suite: Themes Reimagined",
