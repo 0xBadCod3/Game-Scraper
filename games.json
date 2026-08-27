@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T01:06:08.001796",
-  "total_games": 295,
+  "last_updated": "2026-08-27T21:42:54.772014",
+  "total_games": 296,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1470,6 +1470,14 @@
       "price": "$9.99 → Free",
       "post_date": "2026-08-09 08:33:22",
       "link": "https://store.epicgames.com/p/cat-named-mojave-7e06ad",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Rival Stars Horse Racing",
+      "description": null,
+      "price": "$29.99 → Free",
+      "post_date": null,
+      "link": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
       "platform": "epic-games-store"
     },
     {
