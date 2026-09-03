@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T21:42:54.772014",
-  "total_games": 296,
+  "last_updated": "2026-09-03T15:45:02.484400",
+  "total_games": 297,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1662,6 +1662,14 @@
       "price": "$14.99 → Free",
       "post_date": "2026-07-12 12:19:41",
       "link": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Alone With You",
+      "description": "Looking for some romance? Grab Alone With You for free via Epic Games Store! Alone With You is a sci-fi adventure game with pixel graphics and visual novel storytelling.",
+      "price": "$9.99 → Free",
+      "post_date": "2026-09-03 11:01:44",
+      "link": "https://store.epicgames.com/p/alone-with-you-028a15",
       "platform": "epic-games-store"
     },
     {
