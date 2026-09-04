@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T15:45:02.484400",
-  "total_games": 297,
+  "last_updated": "2026-09-04T15:43:20.131306",
+  "total_games": 298,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1662,6 +1662,14 @@
       "price": "$14.99 → Free",
       "post_date": "2026-07-12 12:19:41",
       "link": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Beach Invasion 1944",
+      "description": "Grab Beach Invasion 1944 for free via Epic Games Store! Beach Invasion 1944 is a 3d on-rails shooter with Impressive graphics.",
+      "price": "$9.99 → Free",
+      "post_date": "2026-09-04 09:55:23",
+      "link": "https://store.epicgames.com/p/beach-invasion-1944-d654d6",
       "platform": "epic-games-store"
     },
     {
