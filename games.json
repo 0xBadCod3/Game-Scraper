@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T17:11:04.384705",
-  "total_games": 299,
+  "last_updated": "2026-09-10T15:47:45.820500",
+  "total_games": 301,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1662,6 +1662,22 @@
       "price": "$14.99 → Free",
       "post_date": "2026-07-12 12:19:41",
       "link": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Astral Ascent",
+      "description": "Choose one of four heroes and explore the Garden, an astral prison guarded by 12 powerful mystical bosses",
+      "price": "$24.99 → Free",
+      "post_date": "2026-09-10T15:10:33+00:00",
+      "link": "https://store.epicgames.com/p/astral-ascent-b33bc2",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Luftrausers",
+      "description": "Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores",
+      "price": "$9.99 → Free",
+      "post_date": "2026-09-10T15:10:33+00:00",
+      "link": "https://store.epicgames.com/p/luftrausers-51e5e9",
       "platform": "epic-games-store"
     },
     {
