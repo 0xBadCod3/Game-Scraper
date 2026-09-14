@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T15:47:45.820500",
-  "total_games": 301,
+  "last_updated": "2026-09-14T11:43:28.871217",
+  "total_games": 302,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1663,6 +1663,14 @@
       "post_date": "2026-07-12 12:19:41",
       "link": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Crystal Crisis",
+      "description": "Score Crystal Crisis for free via Steam! Crystal Crisis is a fun puzzle game with an all-star cast of heroes! Don´t miss this amazing game!",
+      "price": "$19.99 → Free",
+      "post_date": "2026-09-14 07:16:37",
+      "link": "https://store.steampowered.com/app/447700/Crystal_Crisis/",
+      "platform": "steam"
     },
     {
       "name": "Astral Ascent",
