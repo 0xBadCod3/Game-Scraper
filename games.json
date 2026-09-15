@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T11:43:28.871217",
-  "total_games": 302,
+  "last_updated": "2026-09-15T16:11:51.122639",
+  "total_games": 303,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1663,6 +1663,14 @@
       "post_date": "2026-07-12 12:19:41",
       "link": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "FOR HONOR",
+      "description": "Ubisoft is back with another amazing giveaway! Claim FOR HONOR for free via Ubisoft Store! For Honor is a popular team-based PvP melee fighting game with endless battles. Don´t miss it!",
+      "price": "$29.99 → Free",
+      "post_date": "2026-09-15 09:49:57",
+      "link": "https://store.ubisoft.com/ie/for-honor/659ea90829c01c38968dce19.html",
+      "platform": "ubisoft"
     },
     {
       "name": "Crystal Crisis",
