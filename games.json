@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T16:11:51.122639",
-  "total_games": 303,
+  "last_updated": "2026-09-16T20:50:53.834645",
+  "total_games": 304,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1663,6 +1663,14 @@
       "post_date": "2026-07-12 12:19:41",
       "link": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Space Menace",
+      "description": "New Steam giveaway to improve your day! Claim Space Menace for FREE via Steam! Space Menace is a 2d Sci-Fi space RTS game with multiple paths to progress. Check it out!",
+      "price": "$6.99 → Free",
+      "post_date": "2026-09-16 13:42:36",
+      "link": "https://store.steampowered.com/app/2000040/Space_Menace/",
+      "platform": "steam"
     },
     {
       "name": "FOR HONOR",
