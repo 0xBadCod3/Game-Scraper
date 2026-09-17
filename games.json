@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T20:50:53.834645",
-  "total_games": 304,
+  "last_updated": "2026-09-17T16:11:37.159179",
+  "total_games": 306,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1662,6 +1662,22 @@
       "price": "$14.99 → Free",
       "post_date": "2026-07-12 12:19:41",
       "link": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Shogun Showdown",
+      "description": "Turn-based combat game with rogue-like and deck-building elements",
+      "price": "$14.99 → Free",
+      "post_date": "2026-09-17T15:10:19+00:00",
+      "link": "https://store.epicgames.com/p/shogun-showdown-61832d",
+      "platform": "epic-games-store"
+    },
+    {
+      "name": "Mindcop",
+      "description": "Dive into the minds of your suspects to uncover their secrets and unravel their lies",
+      "price": "$14.99 → Free",
+      "post_date": "2026-09-17T15:10:18+00:00",
+      "link": "https://store.epicgames.com/p/mindcop-78e6c1",
       "platform": "epic-games-store"
     },
     {
