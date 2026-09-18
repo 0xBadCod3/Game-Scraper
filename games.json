@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T16:11:37.159179",
-  "total_games": 306,
+  "last_updated": "2026-09-18T20:21:55.022860",
+  "total_games": 307,
   "platforms": [
     "epic-games-store",
     "gog",
@@ -1663,6 +1663,14 @@
       "post_date": "2026-07-12 12:19:41",
       "link": "https://store.epicgames.com/p/keepup-survival-cd0eb0",
       "platform": "epic-games-store"
+    },
+    {
+      "name": "Deadshot",
+      "description": "Score Deadshot for free via Steam! Deadshot is a 3d retro styled first-person shooter game inspired from classics like Doom and Quake.",
+      "price": "$4.99 → Free",
+      "post_date": "2026-09-18 13:04:56",
+      "link": "https://store.steampowered.com/app/2484180/Deadshot/",
+      "platform": "steam"
     },
     {
       "name": "Shogun Showdown",
